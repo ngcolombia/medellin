@@ -1,34 +1,36 @@
 # Angular Medellín
 
-## ¿Qué es? :simple_smile: 
+## :star: ¿Qué es? :star:
 
 Angular Medellín es un grupo para aquellos que están interesados en aprender un poco más de Angular: 
 
 - :muscle: Compartiremos las mejores prácticas a la hora de desarrollar Single-Page Applications.
 - :raised_hands: Discutiremos las últimas tendencias, sus pros y sus contras.
-- :speech_balloon: Tendremos speakers compartiendo sus éxitos y fracasos escribiendo aplicaciones en Angular. 
+- :boy::speech_balloon::girl::speech_balloon: Tendremos speakers compartiendo sus éxitos y fracasos escribiendo aplicaciones en Angular. 
 
 ¡Si estás en Medellín y eres apasionado como nosotros, ven a nuestro próximo meetup y haz parte de nuestra comunidad! 
 
-## Meetups :star:
+## :calendar: Meetups :calendar:
 
-- :ear::speech_balloon: [Hablemos de Angular en Medellín](meetups/1.hablemos-de-angular-en-medellin)
+1. :speech_balloon: [Hablemos de Angular en Medellín](./meetups/1.hablemos-de-angular-en-medellin) :speech_balloon:
 
-## ¿Te gustaría ser nuestro próximo speaker? :microphone:
-
-Instrucciones
-- Ideas
-- Formato
-- Submit issue
-
-## ¿Quieres patrocinarnos? :microphone:
+## :microphone: ¿Quieres ser un speaker? :microphone:
 
 Instrucciones
 - Ideas
 - Formato
 - Submit issue
 
+## :moneybag: ¿Quieres patrocinarnos? :moneybag:
 
+Instrucciones
+- Ideas
+- Formato
+- Submit issue
+
+
+:octocat:
+:octocat:
 
 
 
