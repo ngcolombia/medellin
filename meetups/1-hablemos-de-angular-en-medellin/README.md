@@ -16,3 +16,4 @@
 ## 4. Angular: The ecosystem
 
 - **Speaker:** Juan Herrera (@jdjuan)
+- **Slides:** https://slides.com/jdjuan/angular-ecosystem
