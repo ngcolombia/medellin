@@ -12,6 +12,7 @@
 ## 3. RxJS desde cero: Live Coding
 
 - **Speaker:** Felipe Jaramillo (@p1p3j)
+- **Slides:** http://slides.com/felipejaramillogomez/deck-3
 
 ## 4. Angular: The ecosystem
 
