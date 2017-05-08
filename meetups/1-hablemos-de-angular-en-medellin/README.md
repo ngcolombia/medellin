@@ -8,6 +8,7 @@
 ## 2. Angular desde cero: Live Coding 
 
 - **Speaker:** Diego Coy (@UnJavaScripter)
+- **Código:** https://github.com/unjavascripter/chancletapp
 
 ## 3. RxJS desde cero: Live Coding
 
