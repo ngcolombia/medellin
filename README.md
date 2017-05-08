@@ -12,7 +12,7 @@ Si estás en Medellín y eres apasionado como nosotros, ¡ven a nuestro próximo
 
 ## :calendar: Meetups :calendar:
 
-1. [Hablemos de Angular en Medellín](meetups/1.hablemos-de-angular-en-medellin)
+1. [Hablemos de Angular en Medellín](meetups/1-hablemos-de-angular-en-medellin)
 
 ## :microphone: ¿Quieres ser un speaker? :microphone:
 
