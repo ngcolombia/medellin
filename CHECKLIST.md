@@ -1,4 +1,4 @@
-# Checklists
+# Checklist
 
 ## Event Information
 
