@@ -1,5 +1,12 @@
 # Angular Medellín
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contribuyentes)
+[![PRs Welcome][prs-badge]][prs]
+[![Code of Conduct][coc-badge]](#cop-código-de-conducta-cop)
+
+[![Watch on GitHub][github-watch-badge]][github-watch]
+[![Star on GitHub][github-star-badge]][github-star]
+[![Tweet][twitter-badge]][twitter]
 
 ## :star: ¿Qué es? :star:
 
@@ -46,7 +53,7 @@ Si quieres patrocinarnos puedes contactarnos [aquí](https://github.com/angular-
 
 Seguimos el código de conducta de la [comunidad de JavaScript](http://jsconf.com/codeofconduct.html), asegúrate de leerlo para disfrutar al máximo de Angular Medellín.
 
-## Contribuyentes
+## ✨ Contribuyentes ✨
 
 Gracias a estas maravillosas personas ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
@@ -74,3 +81,15 @@ Para contactar a los organizadores puedes hacerlo por email a `david.juanherrera
         /     🚘 |      🚘\
        /          |         \
       /           | 🚘       \ (Medellín)
+
+
+[coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
+[prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
+[github-watch-badge]: https://img.shields.io/github/watchers/angular-medellin/meetup.svg?style=social
+[github-star-badge]: https://img.shields.io/github/stars/angular-medellin/meetup.svg?style=social
+[twitter-badge]: https://img.shields.io/twitter/url/https/github.com/angular-medellin/meetup.svg?style=social
+
+[prs]: http://makeapullrequest.com
+[github-watch]: https://github.com/angular-medellin/meetup/watchers
+[github-star]: https://github.com/angular-medellin/meetup/stargazers
+[twitter]: https://twitter.com/intent/tweet?text=Conoce%20a%20Angular%20Medellín!%20%E2%9C%A8%20Aquí%20está%20su%20reposotirio%20oficial%20%E2%9C%A8%20https://github.com/angular-medellin/meetup%20%F0%9F%A4%97
