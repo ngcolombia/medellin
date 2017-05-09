@@ -1,0 +1,16 @@
+{
+  "name": "angular-medellin",
+  "version": "1.0.0",
+  "description": "Angular Medellin Meetup",
+  "main": "index.js",
+  "repository": "git@github.com:angular-medellin/meetup.git",
+  "author": "Juan Herrera <jdjuan@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "all-contributors-cli": "^4.3.0"
+  },
+  "scripts": {
+    "all-contributors:add": "all-contributors add",
+    "all-contributors:generate": "all-contributors generate"
+  }
+}
