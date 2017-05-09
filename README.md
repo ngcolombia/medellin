@@ -1,6 +1,6 @@
 # Angular Medellín
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contribuyentes)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#-contribuyentes-)
 [![PRs Welcome][prs-badge]][prs]
 [![Code of Conduct][coc-badge]](#cop-código-de-conducta-cop)
 
@@ -58,8 +58,8 @@ Seguimos el código de conducta de la [comunidad de JavaScript](http://jsconf.co
 Gracias a estas maravillosas personas ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-| [<img src="https://avatars3.githubusercontent.com/u/3171900?v=3" width="100px;"/><br /><sub>Juan Herrera</sub>](http://juandavidherrera.com/en)<br />[💬](#question-jdjuan "Answering Questions") [📋](#eventOrganizing-jdjuan "Event Organizing") [🔍](#fundingFinding-jdjuan "Funding Finding") [👀](#review-jdjuan "Reviewed Pull Requests") [📢](#talk-jdjuan "Talks") | [<img src="https://avatars2.githubusercontent.com/u/19215389?v=3" width="100px;"/><br /><sub>Melina Mejía Bedoya</sub>](https://github.com/MelinaMejia95)<br />[📖](https://github.com/angular-medellin/meetup/commits?author=MelinaMejia95 "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/464978?v=3" width="100px;"/><br /><sub>Alejandro Ñáñez Ortiz</sub>](http://co.linkedin.com/in/alejandronanez/)<br />[📖](https://github.com/angular-medellin/meetup/commits?author=alejandronanez "Documentation") |
-| :---: | :---: | :---: |
+| [<img src="https://avatars3.githubusercontent.com/u/3171900?v=3" width="100px;"/><br /><sub>Juan Herrera</sub>](http://juandavidherrera.com/en)<br />[💬](#question-jdjuan "Answering Questions") [📋](#eventOrganizing-jdjuan "Event Organizing") [🔍](#fundingFinding-jdjuan "Funding Finding") [👀](#review-jdjuan "Reviewed Pull Requests") [📢](#talk-jdjuan "Talks") | [<img src="https://avatars2.githubusercontent.com/u/19215389?v=3" width="100px;"/><br /><sub>Melina Mejía Bedoya</sub>](https://github.com/MelinaMejia95)<br />[📖](https://github.com/angular-medellin/meetup/commits?author=MelinaMejia95 "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/464978?v=3" width="100px;"/><br /><sub>Alejandro Ñáñez Ortiz</sub>](http://co.linkedin.com/in/alejandronanez/)<br />[📖](https://github.com/angular-medellin/meetup/commits?author=alejandronanez "Documentation") | [<img src="https://avatars3.githubusercontent.com/u/10712317?v=3" width="100px;"/><br /><sub>Felipe Jaramillo </sub>](https://github.com/p1p3)<br />[📢](#talk-p1p3 "Talks") |
+| :---: | :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Este proyecto sigue la especificación de [all-contributors](https://github.com/kentcdodds/all-contributors). Cualquier tipo de contribución es bienvenida!
