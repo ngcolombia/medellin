@@ -1,4 +1,5 @@
 # Angular Medellín
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 ## :star: ¿Qué es? :star:
 
@@ -64,3 +65,14 @@ Para contactar a los organizadores puedes hacerlo por email a `david.juanherrera
       /           | 🚘       \ (Medellín)
         
 
+
+## Contributors
+
+Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+| [<img src="https://avatars3.githubusercontent.com/u/3171900?v=3" width="100px;"/><br /><sub>Juan Herrera</sub>](http://juandavidherrera.com/en)<br />[💬](#question-jdjuan "Answering Questions") [📋](#eventOrganizing-jdjuan "Event Organizing") [🔍](#fundingFinding-jdjuan "Funding Finding") [👀](#review-jdjuan "Reviewed Pull Requests") [📢](#talk-jdjuan "Talks") |
+| :---: |
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!

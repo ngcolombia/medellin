@@ -1,0 +1,24 @@
+{
+  "projectName": "meetup",
+  "projectOwner": "angular-medellin",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "jdjuan",
+      "name": "Juan Herrera",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3171900?v=3",
+      "profile": "http://juandavidherrera.com/en",
+      "contributions": [
+        "question",
+        "eventOrganizing",
+        "fundingFinding",
+        "review",
+        "talk"
+      ]
+    }
+  ]
+}
