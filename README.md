@@ -1,5 +1,5 @@
 # Angular Medellín
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 
 ## :star: ¿Qué es? :star:
 
@@ -71,8 +71,8 @@ Para contactar a los organizadores puedes hacerlo por email a `david.juanherrera
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-| [<img src="https://avatars3.githubusercontent.com/u/3171900?v=3" width="100px;"/><br /><sub>Juan Herrera</sub>](http://juandavidherrera.com/en)<br />[💬](#question-jdjuan "Answering Questions") [📋](#eventOrganizing-jdjuan "Event Organizing") [🔍](#fundingFinding-jdjuan "Funding Finding") [👀](#review-jdjuan "Reviewed Pull Requests") [📢](#talk-jdjuan "Talks") | [<img src="https://avatars2.githubusercontent.com/u/19215389?v=3" width="100px;"/><br /><sub>Melina Mejía Bedoya</sub>](https://github.com/MelinaMejia95)<br />[📖](https://github.com/angular-medellin/meetup/commits?author=MelinaMejia95 "Documentation") |
-| :---: | :---: |
+| [<img src="https://avatars3.githubusercontent.com/u/3171900?v=3" width="100px;"/><br /><sub>Juan Herrera</sub>](http://juandavidherrera.com/en)<br />[💬](#question-jdjuan "Answering Questions") [📋](#eventOrganizing-jdjuan "Event Organizing") [🔍](#fundingFinding-jdjuan "Funding Finding") [👀](#review-jdjuan "Reviewed Pull Requests") [📢](#talk-jdjuan "Talks") | [<img src="https://avatars2.githubusercontent.com/u/19215389?v=3" width="100px;"/><br /><sub>Melina Mejía Bedoya</sub>](https://github.com/MelinaMejia95)<br />[📖](https://github.com/angular-medellin/meetup/commits?author=MelinaMejia95 "Documentation") | [<img src="https://avatars0.githubusercontent.com/u/464978?v=3" width="100px;"/><br /><sub>Alejandro Ñáñez Ortiz</sub>](http://co.linkedin.com/in/alejandronanez/)<br />[📖](https://github.com/angular-medellin/meetup/commits?author=alejandronanez "Documentation") |
+| :---: | :---: | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind welcome!
