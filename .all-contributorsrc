@@ -1,0 +1,42 @@
+{
+  "projectName": "meetup",
+  "projectOwner": "angular-medellin",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "jdjuan",
+      "name": "Juan Herrera",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/3171900?v=3",
+      "profile": "http://juandavidherrera.com/en",
+      "contributions": [
+        "question",
+        "eventOrganizing",
+        "fundingFinding",
+        "review",
+        "talk"
+      ]
+    },
+    {
+      "login": "MelinaMejia95",
+      "name": "Melina Mejía Bedoya",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/19215389?v=3",
+      "profile": "https://github.com/MelinaMejia95",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "alejandronanez",
+      "name": "Alejandro Ñáñez Ortiz",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/464978?v=3",
+      "profile": "http://co.linkedin.com/in/alejandronanez/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ]
+}
