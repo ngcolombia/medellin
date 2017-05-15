@@ -28,7 +28,7 @@ Si estás en Medellín y eres apasionado como nosotros, ¡ven a nuestro próximo
 
 Para proponer una charla sólo ingresa un issue [aquí](https://github.com/angular-medellin/meetup/issues) :octocat: con el tema de la charla y una pequeña descripción. Luego nos pondremos en contacto contigo.
 
-## :speech_balloon: ¿Qué opinas de la comunidad? :speech_balloon:
+## :loudspeaker: ¿Qué opinas de la comunidad? :loudspeaker:
 
 Tu opinión es muy valiosa para nosotros, siempre estamos dispuestos a escuchar lo que tengas para decir, bien sea :poop: o :heart:.
 Así que no lo pienses dos veces:
@@ -52,6 +52,9 @@ Si quieres patrocinarnos puedes contactarnos [aquí](https://github.com/angular-
 ## :cop: Código de Conducta :cop:
 
 Seguimos el código de conducta de la [comunidad de JavaScript](http://jsconf.com/codeofconduct.html), asegúrate de leerlo para disfrutar al máximo de Angular Medellín.
+
+## :speech_balloon: Únete a nuestro chat :speech_balloon:
+Todos saben que las comunidades más cool 😎 tienen un chat privado. ¡Nosotros también! Si quieres conocer las últimas noticias y estar al tanto de todas las novedades, **¡Únete [aquí](https://gitter.im/angular-medellin/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)!**
 
 ## ✨ Contribuyentes ✨
 
