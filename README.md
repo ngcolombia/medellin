@@ -53,6 +53,9 @@ Si quieres patrocinarnos puedes contactarnos [aquí](https://github.com/angular-
 
 Seguimos el código de conducta de la [comunidad de JavaScript](http://jsconf.com/codeofconduct.html), asegúrate de leerlo para disfrutar al máximo de Angular Medellín.
 
+## :speech_balloon: Únete a nuestro chat :speech_balloon:
+Estamos en Gitter! Puedes unirte [aquí](https://gitter.im/angular-medellin/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+
 ## ✨ Contribuyentes ✨
 
 Gracias a estas maravillosas personas ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
