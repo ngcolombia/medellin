@@ -56,9 +56,9 @@ Seguimos el código de conducta de la [comunidad de JavaScript](http://jsconf.co
 ## :speech_balloon: Únete a nuestro chat :speech_balloon:
 Todos saben que las comunidades más cool 😎 tienen un chat privado. ¡Nosotros también! Si quieres conocer las últimas noticias y estar al tanto de todas las novedades, **¡Únete [aquí](https://gitter.im/angular-medellin/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)!**
 
-## :boom: Conoce los últimos eventos de Angular en el mundo! :boom:
-No te pierdas la información de los eventos más importantes de Angular. Si conoces alguno y no lo ves en la lista, no temas en añadirlo al documento.
-**Échale un vistazo aquí:** [Angular Events](ANGULAR-EVENTS.md)
+## :boom: ¡Conoce los últimos eventos de Angular! :boom:
+Hemos creado una lista con los eventos más importantes de Angular en el mundo. Si nos falta alguno, no temas en añadirlo al documento.
+**¡Échale un vistazo [aquí](ANGULAR-EVENTS.md)!**
 
 ## ✨ Contribuyentes ✨
 
