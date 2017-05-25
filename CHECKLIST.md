@@ -1,6 +1,8 @@
 # Checklist
 
-## Event Information
+## Before the event
+
+### Information
 
 Include this sections in your meetup event description:
 
@@ -9,7 +11,13 @@ Include this sections in your meetup event description:
 - **💾 Environment Setup:** For practical exercises explain in great detail what tools need to be installed beforehand.
 - **🚲 Parking/Bicycle friendly:** Let your attendees know if the building provides parking slots or places to left their bicycles.
 
-## Before the event
+### Sign up form
+
+Don't forget to create a form to get a real insight of the number of people that is attending and the number of snacks required:
+
+- **👉 Full Name**
+- **📱 Phone number**
+- **🍎 Food conditions:** This way you can know who is vegetarian o vegan
 
 ### Logistics
 
@@ -29,6 +37,12 @@ Include this sections in your meetup event description:
     - 😇 Content should be kept neutral, non-violent, non-sexual, etc.
     - 😉 Talks should keep a balance between presenting information and diving deep into it, the former allows keeping the audience interested and the second challenges them to read further.
     - 😊 Complex or specific scenarios should be discussed offline.
+
+### Workshops
+
+- 📁 Create a document with environmental setup so all (not really, but at least most) of the attendees come with all the tools installed and ready.
+- ⌨ Create a repository that holds all the code that will be written during the workshop. Creating branches to denote every step makes it easier for the attendees to fully understand the differences between steps. Use numbers to name the branches.
+- 👨‍👩‍👧‍👦 Ask members of the community for help prior to the workshop. The should serve as assistants when any of the attendees is stuck in the process. They should be contacted at least two weeks before the event, so they can study the contents and be ready to help.
 
 ## During the event
 
