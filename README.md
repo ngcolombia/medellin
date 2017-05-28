@@ -1,34 +1,72 @@
-# Angular Medellín
+<p align="center">
+    <img width=100% src="assets/angular-medellin-banner.png">
+</p>
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#-contribuyentes-)
-[![PRs Welcome][prs-badge]][prs]
-[![Code of Conduct][coc-badge]](#cop-código-de-conducta-cop)
+<p align="center">
+  <a href="https://www.meetup.com/Angular-Medellin/members/">
+    <img src="https://img.shields.io/badge/👫-+280_miembros-1d2935.svg?style=flat" alt="Contribuyentes">
+  </a>
+  <a href="#-contribuyentes-">
+    <img src="https://img.shields.io/badge/👫-8_contribuyentes-1d2935.svg?style=flat" alt="Contribuyentes">
+  </a>
+  <a href="#-quieres-ser-speaker-">
+    <img src="https://img.shields.io/badge/🎤-3_speakers-1d2935.svg?style=flat" alt="Speakers">
+  </a>
+  <a href="RESOURCES.md">
+    <img src="https://img.shields.io/badge/💰-1_patrocinador-1d2935.svg?style=flat" alt="Speakers">
+  </a>
+  <a href="https://twitter.com/jdjuan">
+    <img src="https://img.shields.io/badge/🕴-1_organizador-1d2935.svg?style=flat" alt="Speakers">
+  </a>
+  <a href="CODE-OF-CONDUCT.md">
+    <img src="https://img.shields.io/badge/👮-1_código_de_conducta-1d2935.svg?style=flat" alt="Código de Conducta">
+  </a>
+  <br><br>
+  <a href="https://github.com/angular-medellin/meetup/stargazers">
+    <img src="https://img.shields.io/github/stars/angular-medellin/meetup.svg?style=social" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/angular-medellin/meetup/watchers">
+    <img src="https://img.shields.io/github/watchers/angular-medellin/meetup.svg?style=social" alt="GitHub watchers">
+  </a>
+  <a href="https://twitter.com/intent/tweet?text=Conoce%20a%20Angular%20Medellín!%20%E2%9C%A8%20Aquí%20está%20su%20reposotirio%20oficial%20%E2%9C%A8%20https://github.com/angular-medellin/meetup%20%F0%9F%A4%97
+">
+    <img src="https://img.shields.io/twitter/url/https/github.com/angular-medellin/meetup.svg?style=social" alt="Tweet">
+  </a>
+</p>
 
-[![Watch on GitHub][github-watch-badge]][github-watch]
-[![Star on GitHub][github-star-badge]][github-star]
-[![Tweet][twitter-badge]][twitter]
+# ⭐️ Angular Medellín ⭐️
 
-## :star: ¿Qué es? :star:
+Angular Medellín es una comunidad de personas interesadas en aprender un poco más de **[Angular](https://angular.io/)**:
 
-Angular Medellín es un grupo para aquellos que están interesados en aprender un poco más de Angular:
-
-- :muscle: Compartiremos las mejores prácticas a la hora de desarrollar Single-Page Applications.
-- :raised_hands: Discutiremos las últimas tendencias, sus pros y sus contras.
-- :boy::speech_balloon::girl::speech_balloon: Tendremos speakers compartiendo sus éxitos y fracasos escribiendo aplicaciones en Angular.
+- :muscle: Compartimos las mejores prácticas a la hora de desarrollar Single-Page Applications
+- :raised_hands: Discutimos las últimas tendencias, sus pros y sus contras
+- :microphone: Tenemos speakers compartiendo sus éxitos y fracasos escribiendo aplicaciones en Angular
 
 Si estás en Medellín y eres apasionado como nosotros, ¡ven a nuestro próximo meetup y haz parte de nuestra comunidad!
 
-## :calendar: Meetups :calendar:
+## 📆 Meetups 📆
 
-1. [Hablemos de Angular en Medellín](meetups/1-hablemos-de-angular-en-medellin)
+1. **[Hablemos de Angular en Medellín](meetups/1-hablemos-de-angular-en-medellin)**
+2. **[Cosas que no sabías de Angular](meetups/2-cosas-que-no-sabias-de-angular)**
 
-## :microphone: ¿Quieres ser un speaker? :microphone:
+## 📢 Chat 📢
+
+Todos saben que las comunidades más cool 😎 tienen un chat privado. ¡Nosotros también! Si quieres conocer las últimas noticias y estar al tanto de todas las novedades, **¡Únete [aquí](https://gitter.im/angular-medellin/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)!**
+
+## 📁 Recursos 📁
+
+Hemos creado una lista con los eventos más importantes de Angular en el mundo. Si nos falta alguno, no temas en añadirlo al documento.
+**¡Échale un vistazo [aquí](RESOURCES.md)!**
+
+# 💪 ¡Participa! 💪
+
+## 👦 ¿Quieres ser speaker? 👧
 
 ¡Nos encantaría que subieras al escenario!, no hace falta ser un experto :neckbeard: ni ahondar en aspectos técnicos, de hecho, nos encantan las charlas creativas.
 
 Para proponer una charla sólo ingresa un issue [aquí](https://github.com/angular-medellin/meetup/issues) :octocat: con el tema de la charla y una pequeña descripción. Luego nos pondremos en contacto contigo.
 
-## :loudspeaker: ¿Qué opinas de la comunidad? :loudspeaker:
+## 👂 ¿Quieres darnos tu opinión? 👂
 
 Tu opinión es muy valiosa para nosotros, siempre estamos dispuestos a escuchar lo que tengas para decir, bien sea :poop: o :heart:.
 Así que no lo pienses dos veces:
@@ -39,28 +77,19 @@ Así que no lo pienses dos veces:
 
 Sólo ingresa un issue [aquí](https://github.com/angular-medellin/meetup/issues) :octocat:.
 
-## :facepunch: ¿Quieres ser un organizador? :facepunch:
-
-Nos parece maravilloso que quieras participar más activamente en la comunidad. Explícanos por qué y cómo tus habilidades pueden hacer crecer esta comunidad [aquí](https://github.com/angular-medellin/meetup/issues) :octocat:.
-
-## :moneybag: ¿Quieres patrocinarnos? :moneybag:
+## 💰 ¿Quieres patrocinarnos? 💰
 
 Angular Medellín es una comunidad sin ánimo de lucro. Usamos el patrocinio para cubrir los costos de los meetups e incentivar a los asistentes a participar.
 
 Si quieres patrocinarnos puedes contactarnos [aquí](https://github.com/angular-medellin/meetup#phone-contacto-phone).
 
-## :cop: Código de Conducta :cop:
+## 🕴 ¿Quieres ser organizador? 🕴
 
-Seguimos el código de conducta de la [comunidad de JavaScript](http://jsconf.com/codeofconduct.html), asegúrate de leerlo para disfrutar al máximo de Angular Medellín.
+Nos parece maravilloso que quieras participar más activamente en la comunidad. Explícanos por qué y cómo tus habilidades pueden hacer crecer esta comunidad [aquí](https://github.com/angular-medellin/meetup/issues) :octocat:.
 
-## :speech_balloon: Únete a nuestro chat :speech_balloon:
-Todos saben que las comunidades más cool 😎 tienen un chat privado. ¡Nosotros también! Si quieres conocer las últimas noticias y estar al tanto de todas las novedades, **¡Únete [aquí](https://gitter.im/angular-medellin/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)!**
+# ❤️️ Agradecimientos ❤️️
 
-## :boom: ¡Conoce los últimos eventos de Angular! :boom:
-Hemos creado una lista con los eventos más importantes de Angular en el mundo. Si nos falta alguno, no temas en añadirlo al documento.
-**¡Échale un vistazo [aquí](ANGULAR-EVENTS.md)!**
-
-## ✨ Contribuyentes ✨
+## 👫 Contribuyentes 👫
 
 Gracias a estas maravillosas personas ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
@@ -72,32 +101,8 @@ Gracias a estas maravillosas personas ([emoji key](https://github.com/kentcdodds
 
 Este proyecto sigue la especificación de [all-contributors](https://github.com/kentcdodds/all-contributors). Cualquier tipo de contribución es bienvenida!
 
-## :phone: Contacto :phone:
+## 🤝 Patrocinadores 🤝
 
-Para contactar a los organizadores puedes hacerlo por email a `david.juanherrera@gmail.com`, o por Twitter a [@jdjuan](http://twitter.com/jdjuan).
-
-#### Y ahora un dibujito
-
-            ☁ 🌞  ☁  ☁
-         ☁   ☁   🚁 ☁
-         🏠🌴🌲____🌲🌴🏠
-             /   |🚘 \
-            /  🚘|    \
-           /     | 🚘  \
-          /🚘    |      \
-         /        |   🚘 \
-        /     🚘 |      🚘\
-       /          |         \
-      /           | 🚘       \ (Medellín)
-
-
-[coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
-[prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
-[github-watch-badge]: https://img.shields.io/github/watchers/angular-medellin/meetup.svg?style=social
-[github-star-badge]: https://img.shields.io/github/stars/angular-medellin/meetup.svg?style=social
-[twitter-badge]: https://img.shields.io/twitter/url/https/github.com/angular-medellin/meetup.svg?style=social
-
-[prs]: http://makeapullrequest.com
-[github-watch]: https://github.com/angular-medellin/meetup/watchers
-[github-star]: https://github.com/angular-medellin/meetup/stargazers
-[twitter]: https://twitter.com/intent/tweet?text=Conoce%20a%20Angular%20Medellín!%20%E2%9C%A8%20Aquí%20está%20su%20reposotirio%20oficial%20%E2%9C%A8%20https://github.com/angular-medellin/meetup%20%F0%9F%A4%97
+<a href="http://yuxiglobal.com/" target="_blank">
+<img width=20% src="assets/yuxi-global-logo.png">
+</a>
