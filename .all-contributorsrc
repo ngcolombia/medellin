@@ -17,15 +17,7 @@
         "eventOrganizing",
         "fundingFinding",
         "review",
-        "talk"
-      ]
-    },
-    {
-      "login": "MelinaMejia95",
-      "name": "Melina Mejía Bedoya",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/19215389?v=3",
-      "profile": "https://github.com/MelinaMejia95",
-      "contributions": [
+        "talk",
         "doc"
       ]
     },
@@ -34,6 +26,29 @@
       "name": "Alejandro Ñáñez Ortiz",
       "avatar_url": "https://avatars0.githubusercontent.com/u/464978?v=3",
       "profile": "http://co.linkedin.com/in/alejandronanez/",
+      "contributions": [
+        "doc",
+        "code",
+        "question",
+        "review",
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "danielcb29",
+      "name": "Daniel Correa",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/8260962?v=3",
+      "profile": "https://github.com/danielcb29",
+      "contributions": [
+        "doc",
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "MelinaMejia95",
+      "name": "Melina Mejía Bedoya",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/19215389?v=3",
+      "profile": "https://github.com/MelinaMejia95",
       "contributions": [
         "doc"
       ]
@@ -48,12 +63,30 @@
       ]
     },
     {
-      "login": "danielcb29",
-      "name": "Daniel Correa",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/8260962?v=3",
-      "profile": "https://github.com/danielcb29",
+      "login": "UnJavaScripter",
+      "name": "Diego Coy",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/7959823?v=3",
+      "profile": "https://diegocoy.com",
       "contributions": [
-        "doc"
+        "talk"
+      ]
+    },
+    {
+      "login": "ltciro",
+      "name": "Laura Ciro",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/17012545?v=3",
+      "profile": "https://github.com/ltciro",
+      "contributions": [
+        "eventOrganizing"
+      ]
+    },
+    {
+      "login": "Fabian-Buitrago",
+      "name": "Fabian Buitrago",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/9866446?v=3",
+      "profile": "https://github.com/Fabian-Buitrago",
+      "contributions": [
+        "eventOrganizing"
       ]
     }
   ]
