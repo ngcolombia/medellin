@@ -49,7 +49,7 @@ Si estás en Medellín y eres apasionado como nosotros, ¡ven a nuestro próximo
 ## 📆 Meetups 📆
 
 1. **[Hablemos de Angular en Medellín](meetups/1-hablemos-de-angular-en-medellin)**
-2. **[Cosas que no sabías de Angular](meetups/2-cosas-que-no-sabias-de-angular)**
+2. **[Cosas que no sabías de Angular](meetups/2-cosas-que-no-sabías-de-angular)**
 
 ## 📢 Chat 📢
 
