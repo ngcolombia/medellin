@@ -38,26 +38,34 @@ Don't forget to create a form to get a real insight of the number of people that
     - 😉 Talks should keep a balance between presenting information and diving deep into it, the former allows keeping the audience interested and the second challenges them to read further.
     - 😊 Complex or specific scenarios should be discussed offline.
 
+- **👄 Support other languages if applies:** Make room for a 10 minute talk in another language to motivate the community to learn and practice. 
+
 ### Workshops
 
 - 📁 Create a document with environmental setup so all (not really, but at least most) of the attendees come with all the tools installed and ready.
 - ⌨ Create a repository that holds all the code that will be written during the workshop. Creating branches to denote every step makes it easier for the attendees to fully understand the differences between steps. Use numbers to name the branches.
 - 👨‍👩‍👧‍👦 Ask members of the community for help prior to the workshop. The should serve as assistants when any of the attendees is stuck in the process. They should be contacted at least two weeks before the event, so they can study the contents and be ready to help.
+- **🔌 Power extensions:** If you are running a workshop make sure that you have enough power outlets for most of the members of the meetup.
 
 ## During the event
 
-- **🔑 Project wifi credentials:** Before the event starts, project a slide with the wifi network and password such as **[this one](http://slides.com/jdjuan/angular-medellin#/)**.
-- **⭐ Credit the people that have contributed:** Name publicly and thank those that opened issues, PRs or commented.
 - **🍪 Have someone receive and place the snacks:** Make sure someone is in charge of getting the snacks on time.
-- **😇 Talk to the audience often:** Make sure you ask your people if they are feeling ok, if temperature is ok, if they are understanding the contents (it's ok to interrupt the speaker), if there's in anything they want.
-- **🙋 Asign responsibilities to people in the audience:** Giving tasks to people in the audience will make them feel valuable and involved. All the tasks should be credited:
+- **🔑 Project wifi credentials (if you have enough bandwidth):** Before the event starts, project a slide with the wifi network and password such as **[this one](http://slides.com/jdjuan/angular-medellin#/)**.
+- **🐣 Welcome new comers:** Explain what the community is about and little detail and invite them to participate.
+- **💭 Recap from last meeting:** Let the community know what was learned in the previous meetup so they have a sense of continuity.
+- **🔨 Feature your community resources:** Share the community resources with your members, such as website, repository, chat, etc. You want to give them all the chances to participate.
+- **📢   Announce stats:** Numbers say more than words. Let them know how the community is growing and encourage them to support.
+- **⭐ Credit the people that have contributed:** Name publicly and thank those that opened issues, PRs or commented.
+- **🙋 Assign responsibilities to people in the audience:** Giving tasks to people in the audience will make them feel valuable and involved. All the tasks should be credited:
     - **📷 Take Pictures:** Take pictures and send them to the organizers to publish them in the meetup page.
     - **👀 👂 Someone in the back:** Tell the organizer when the slides are not readable or the microphone amplification is not enough.
     - **💬 Take Notes:** Take notes of the questions asked by the audience (that remained unanswered) to resolve them the next time.
     - More to be defined
-- **🕺 Make sure you give swag (if you have):** Not in all cases you will have swag, but if you do, don't forget to give it away, by either asking questions or with a raffle.
+- **😇 Talk to the audience often:** Make sure you ask your people if they are feeling ok, if temperature is ok, if they are understanding the contents (it's ok to interrupt the speaker), if there's in anything they want.
 - **🤳 Take photos:** Photos are a great way to attract new members to participate, so make sure you take enough photos during the event.
 - **🎥 Make a short video:** Make a video when you ask your audience if they are having a good time, those moments are memorable.
+- **🎁 Make sure you give swag (if you have):** Not in all cases you will have swag, but if you do, don't forget to give it away, by either asking questions or with a raffle.
+- **🕺 Ask help to leave the auditorium clean:** You could do it all by yourself but a hand is always welcome.
 - **🎉 Afterparty:** A community is not made of meetups only, so pick a place and a time, and let everybody know that you will be there in case they want to hang out and drink a beer.
 
 ## After the event
