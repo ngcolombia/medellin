@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://www.meetup.com/Angular-Medellin/members/">
-    <img src="https://img.shields.io/badge/👫-+280_miembros-1d2935.svg?style=flat" alt="Contribuyentes">
+    <img src="https://img.shields.io/badge/👫-+320_miembros-1d2935.svg?style=flat" alt="Contribuyentes">
   </a>
   <a href="#-contribuyentes-">
     <img src="https://img.shields.io/badge/👫-8_contribuyentes-1d2935.svg?style=flat" alt="Contribuyentes">
   </a>
   <a href="#-quieres-ser-speaker-">
-    <img src="https://img.shields.io/badge/🎤-3_speakers-1d2935.svg?style=flat" alt="Speakers">
+    <img src="https://img.shields.io/badge/🎤-4_speakers-1d2935.svg?style=flat" alt="Speakers">
   </a>
   <a href="RESOURCES.md">
     <img src="https://img.shields.io/badge/💰-1_patrocinador-1d2935.svg?style=flat" alt="Speakers">
