@@ -23,6 +23,7 @@
 ## 3. 😎 Invitado Internacional
 
 - **Speaker:** Eduardo Morales (@edmoralesb)
+- **Librería de Componentes:** getcovalent.com
 
 ## 4. 😀 Cómo hacer testing en Angular [Karma, Jasmine, etc.]
 
