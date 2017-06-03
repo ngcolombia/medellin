@@ -8,7 +8,7 @@
     - Daniel Correa (@danielcb29)
     - Laura Ciro (@ltciro)
     - Fabián Buitrago (@Fabian-Buitrago)
-- **Slides:** TBD
+- **Repositorio:** https://github.com/jdjuan/your-first-angular-application
 
 ## 2. 😏 Cómo crear una librería para Angular [Práctico] 
 
@@ -18,7 +18,7 @@
     - Daniel Correa (@danielcb29)
     - Laura Ciro (@ltciro)
     - Fabián Buitrago (@Fabian-Buitrago)
-- **Slides:** TBD
+- **Slides:** Aplazado para el próximo meetup
 
 ## 3. 😎 Invitado Internacional
 
@@ -27,4 +27,4 @@
 ## 4. 😀 Cómo hacer testing en Angular [Karma, Jasmine, etc.]
 
 - **Speaker:** [Roger Álvarez](https://github.com/royalcas)
-- **Slides:** TBD
+- **Slides:** http://slides.com/rogeralvarezcastrillon/angularautomatedtesting#/
