@@ -9,6 +9,7 @@
     - Laura Ciro (@ltciro)
     - Fabián Buitrago (@Fabian-Buitrago)
 - **Repositorio:** https://github.com/jdjuan/your-first-angular-application
+- **NG-NOTYF:** https://jdjuan.github.io/ng-notyf/
 
 ## 2. 😏 Cómo crear una librería para Angular [Práctico] 
 
