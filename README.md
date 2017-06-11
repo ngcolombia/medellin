@@ -64,20 +64,20 @@ Hemos creado una lista con los eventos más importantes de Angular en el mundo. 
 
 ## 👦 ¿Quieres ser speaker? 👧
 
-¡Nos encantaría que subieras al escenario!, no hace falta ser un experto :neckbeard: ni ahondar en aspectos técnicos, de hecho, nos encantan las charlas creativas.
+¡Nos encanta que subas al escenario! No hace falta ser un experto :neckbeard: ni ahondar en aspectos técnicos, de hecho, ¡disfrutamos mucho las charlas creativas!
 
-Para proponer una charla sólo ingresa un issue [aquí](https://github.com/angular-medellin/meetup/issues) :octocat: con el tema de la charla y una pequeña descripción. Luego nos pondremos en contacto contigo.
+Sólo asegúrate de seguir [**estas instrucciones**](https://github.com/angular-medellin/meetup/blob/master/SPEAKERS.md), nosotros nos encargamos del resto. Serás un rockstar en el escenario 🤴👸
 
-## 👂 ¿Quieres darnos tu opinión? 👂
+¿Necesitas inspiración? Échale un ojo a [las charlas que nuestros miembros se mueren por escuchar](https://github.com/angular-medellin/meetup/issues?q=is%3Aopen+is%3Aissue+label%3A%22Se+busca+speaker%22).
 
-Tu opinión es muy valiosa para nosotros, siempre estamos dispuestos a escuchar lo que tengas para decir, bien sea :poop: o :heart:.
-Así que no lo pienses dos veces:
+## 🖐 ¿Quieres contribuir? 🖐
 
-- :see_no_evil: Cuéntamos qué tal te ha parecido la comunidad
-- :hear_no_evil: Cómo podemos mejorar
-- :speak_no_evil: Qué charla te gustaría escuchar la próxima vez
+¡Oh vaya! No has hecho sonrojar 😊 Nos alegra que quieras darnos una mano, puedes hacerlo a través de un [**issue**](https://github.com/angular-medellin/meetup/issues) :octocat: Aquí tienes algunas ideas:
 
-Sólo ingresa un issue [aquí](https://github.com/angular-medellin/meetup/issues) :octocat:.
+- 💡 Nos encantan las [**propuestas de mejora**](https://github.com/angular-medellin/meetup/issues?q=is%3Aopen+is%3Aissue+label%3A%22Propuesta+de+mejora%22), nos mantienen con la mente abierta
+- 💼 Nuestros miembros son muy activos ¿Tienes algún proyecto en el que podamos trabajar? Nuestro [**roadmap**](https://github.com/angular-medellin/meetup/blob/master/COMMUNITY-PROJECTS.md) te puede servir de inspiración
+- 🎤 Seguro hay un tema que te mueres por aprender ¿Qué charla te gustaría escuchar [**la próxima vez**](https://github.com/angular-medellin/meetup/issues?q=is%3Aopen+is%3Aissue+label%3A%22Pr%C3%B3ximo+tema%22)?
+- 📢 Tal vez sólo quieres darnos tu retroalimentación: Siempre estamos dispuestos a escuchar lo que tengas para decir, bien sea :poop: o :heart:
 
 ## 💰 ¿Quieres patrocinarnos? 💰
 
