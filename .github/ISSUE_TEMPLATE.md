@@ -6,7 +6,7 @@
 
 - [ ] **🔥 Ser el próximo speaker:** ¡Súper! No olvides leer nuestras recomendaciones
 - [ ] **💬 Proponer un tema:** Qué te gustaría y por qué
-- [ ] **👍 Proponer una idea a la comunidad:** ¡Vaya! ¿Qué hay que hacer?
+- [ ] **👍 Sugerir una idea/proyecto a la comunidad:** ¡Vaya! ¿Qué hay que hacer?
 - [ ] **👏 Dar mi retroalimentación:** ¡Gracias!, esto nos hace crecer
 - [ ] **😎 Convertirme en organizador:** Explícanos por qué y cómo puedes aportar
 - [ ] **🤓 Resolver una duda técnica:** No olvides mencionar tanto detalle como sea posible 
