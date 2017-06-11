@@ -5,12 +5,12 @@ In Angular Medellín we are eager to do more practical stuff 🙋, we want our m
 The following is a list of projects on the roadmap:
 
 | Project             | Status          | Complexity | Issue | People Involved     |
-| --------------------|:---------------:|:----------:|-------|---------------------|
+| --------------------|---------------|:----------:|-------|:---------------------:|
 | 📋 Meetup Form      | ✅ In progress | Small      | [#30] | [@danielcb29], [@alejandronanez], [@Shinkei], [@jdjuan]
 | ♿ Accessible Meetup| ✅ In progress | Medium     | [#25] | [@teffcode], [@jdjuan]
-| 📬 Newsletter       | ⏰ Not started | Medium     | [#16] |
-| 📢 Blog             | ⏰ Not started | High       | [#38] |
-| 💻 Website          | ⏰ Not started | High       |       |
+| 📬 Newsletter       | ⏰ Not started | Medium     | [#16] | -
+| 📢 Blog             | ⏰ Not started | High       | [#34] | -
+| 💻 Website          | ⏰ Not started | High       |       | -
 
 I know what you are thinking right now: *"I want to participate"*, right? 😏
 
@@ -23,7 +23,7 @@ Damn! That's hot 🔥, we got you! Just submit an issue, select the option: "Com
 [#30]: https://github.com/angular-medellin/meetup/issues/30
 [#25]: https://github.com/angular-medellin/meetup/issues/25
 [#16]: https://github.com/angular-medellin/meetup/issues/16
-[#38]: https://github.com/angular-medellin/meetup/issues/38
+[#34]: https://github.com/angular-medellin/meetup/issues/34
 [@Shinkei]: https://github.com/Shinkei
 [@alejandronanez]: https://github.com/alejandronanez
 [@danielcb29]: https://github.com/danielcb29
