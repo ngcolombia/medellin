@@ -24,7 +24,7 @@ The faster your finish your slides the faster we start announcing your talk 😏
 
 # Guidelines 📏
 
-So we want you to be a rockstar in the stage 🔥, we want everyone calling your name euphorically and following you everywhere (not just in your social media 😜). To achieve that we have defined a set of guidelines that will help you achieve it! Read them carefully:
+So we want you to be a rockstar in the stage 🔥, we want everyone calling your name euphorically and following you everywhere (not just in your social media 😜). To achieve that we have defined a set of guidelines that will help you make it! Read them carefully:
 
 ## 1. Content 
 
