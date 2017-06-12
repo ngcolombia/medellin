@@ -36,6 +36,6 @@ Damn! That's hot 🔥, we got you! Just submit an issue, select the option: "Com
 [@alejandronanez]: https://github.com/alejandronanez
 [@danielcb29]: https://github.com/danielcb29
 [@jdjuan]: https://github.com/jdjuan
-[@teffcode]: https://github.com/teffcode11
+[@teffcode]: https://github.com/teffcode
 [@MelinaMejia95]: https://github.com/MelinaMejia95
 [@alvaromartinez986]: https://github.com/alvaromartinez986
