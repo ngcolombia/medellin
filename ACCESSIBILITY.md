@@ -1,4 +1,17 @@
-## Estrategias de inclusión para personas con discapacidades
-- Toda la información que se envíe de la comunidad también esté en un formato de audio, por ejemplo, la invitación a las reuniones, que en un audio se explique muy claro los temas a tratar, el lugar, la hora; también para los boletines o demás correos que se envíen, de manera que esta información también sea accesible para ellos.
+# Accessibilidad
+
+Estrategias de inclusión para personas con discapacidades
+
+## Utilizar diferentes formatos
+
+Toda la información que se envíe de la comunidad debe estar disponible también en formato de audio, esto incluye:
+- La invitación a las reuniones incluyendo los temas a tratar, el lugar y la hora. 
+- Los boletines o demás correos que se envíen.
+
+## No depender mucho de imágenes o texto
+
 - Hacer de las charlas lo más claras posibles sin depender mucho de imágenes o texto.
+
+## Buscar tutores
+
 - Implementar estrategias de tutores en el caso de los talleres, para que brinden un apoyo más personalizado.
