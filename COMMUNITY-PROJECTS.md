@@ -8,7 +8,7 @@ You want to participate? 😏 Not a ~number(NaN)~ problem! Just **click** the is
 | --------------------|-----------------|:----------:|-----------|:------------:|
 | 📋 Meetup Form      | ✅ In progress | Small      | **[#30]** | [@danielcb29]
 | ♿ Accessible Meetup| ✅ In progress | Medium     | **[#25]** | [@teffcode]
-| 📬 Newsletter       | ⏰ Not started | Medium     | **[#16]** | -
+| 📬 Newsletter       | ✅ In progress | Medium     | **[#16]** | [@cardotrejos]
 | 📢 Blog             | ⏰ Not started | High       | **[#34]** | -
 | 💻 Website          | ⏰ Not started | High       |           | -
 
@@ -22,7 +22,13 @@ Made with ❤️️ by: [@danielcb29], [@alejandronanez], [@Shinkei], [@jdjuan],
 
 Let's gather up as many strategies as we can to make Angular Medellín an accessible space for people with disabilities (visual impairment and hearing loss).
 
-Made with ❤️️ by: [@teffcode], [@jdjuan], [@MelinaMejia95] 
+Made with ❤️️ by: [@teffcode], [@jdjuan], [@MelinaMejia95]
+
+## 📬 Newsletter 📬
+
+Let's create a newsletter for our community where our members can find relevant Angular information.
+
+Made with ❤️️ by: [@cardotrejos], [@alejandronanez], [@jdjuan], [@MelinaMejia95]
 
 # Have another project idea?
 
@@ -39,3 +45,4 @@ Damn! That's hot 🔥, we got you! Just submit an issue, select the option: "Com
 [@teffcode]: https://github.com/teffcode
 [@MelinaMejia95]: https://github.com/MelinaMejia95
 [@alvaromartinez986]: https://github.com/alvaromartinez986
+[@cardotrejos]: https://github.com/cardotrejos
