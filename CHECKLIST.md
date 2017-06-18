@@ -15,6 +15,8 @@
 - **🏢 Book the place:** Make sure sponsors have the place setup and booked
 - **🎁 Get SWAG:** Ask your sponsor for SWAG to give away in your next meetup
 - **📝 Update information:** Update the `all-contributors` section, `readme.md` stats on badges and `community-projects.md` progress
+- **📋 Make a list of the announcements to make:** New projects, ideas, relevant issues, PRs, etc. All are welcome
+- **📚 Review who finished the previous meetup challenge:** Check the submissions on the issues
 
 ### Talks
 
