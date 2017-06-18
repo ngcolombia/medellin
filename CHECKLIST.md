@@ -61,16 +61,16 @@ Don't forget to create a form to get a real insight of the number of people that
 
 ## During the event
 
-- **💰 Thank your sponsors publicly:** Name them and let the members know how are they helping you. Also invite new companies to sponsor.
-- **👦 Remember the audience who you are:** Let the audience connect with you by telling them a little bit about you. Try to say something new every time.
 - **🍪 Have someone receive and place the snacks:** Make sure someone is in charge of getting the snacks on time
 - **🔑 Project wifi credentials (if you have enough bandwidth):** Before the event starts, project a slide with the wifi network and password such as **[this one](http://slides.com/jdjuan/angular-medellin#/)**
 - **🐣 Welcome new comers:** Explain what the community is about and little detail and invite them to participate
+- **💰 Thank your sponsors publicly:** Name them and let the members know how are they helping you. Also invite new companies to sponsor.
+- **👦 Remember the audience who you are:** Let the audience connect with you by telling them a little bit about you. Try to say something new every time.
 - **💭 Recap from last meeting:** Let the community know what was learned in the previous meetup so they have a sense of continuity
 - **🔨 Feature your community resources:** Share the community resources with your members, such as website, repository, chat, etc. You want to give them all the chances to participate
 - **⭐ Credit the people that have contributed:** Name publicly and thank those that opened issues, PRs or commented
 - **📢 Announce improvements:** Name all the issues that have turned into improvements by the community.
-- **📢 Showcase stats:** Numbers say more than words. Let them know how the community is growing and encourage them to support.
+- **🔢 Showcase stats:** Numbers say more than words. Let them know how the community is growing and encourage them to support.
 - **🙋 Assign responsibilities to people in the audience:** Giving tasks to people in the audience will make them feel valuable and involved. All the tasks should be credited:
     - **📷 Take Pictures:** Take pictures and send them to the organizers to publish them in the meetup page.
     - **👀 👂 Someone in the back:** Tell the organizer when the slides are not readable or the microphone amplification is not enough.
