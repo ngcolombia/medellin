@@ -20,7 +20,9 @@ Organizers will review your submission and give you green lights 🤙🏼 if you
 
 ### 3. Send your slides 📧
 
-The faster your finish your slides the faster we start announcing your talk 😏 We want your talk to be the best of the best, that's why we will curate your content giving you as much feedback as possible. Send your slides to `david.juanherrera@gmail.com` and we will get back to you shortly ⏱
+The faster your finish your slides the faster we start announcing your talk 😏 We want your talk to be the best of the best, that's why we will curate your content giving you as much feedback as possible. Send your slides to `david.juanherrera@gmail.com` and we will get back to you shortly ⏱ 
+
+> Don't forget to attach your **twitter account** and a pretty **picture of you** 🤵
 
 # Guidelines 📏
 
