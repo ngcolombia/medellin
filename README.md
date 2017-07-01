@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://www.meetup.com/Angular-Medellin/members/">
-    <img src="https://img.shields.io/badge/👫-+320_miembros-1d2935.svg?style=flat" alt="Contribuyentes">
+    <img src="https://img.shields.io/badge/👫-+400_miembros-1d2935.svg?style=flat" alt="Contribuyentes">
   </a>
   <a href="#-contribuyentes-">
-    <img src="https://img.shields.io/badge/👫-8_contribuyentes-1d2935.svg?style=flat" alt="Contribuyentes">
+    <img src="https://img.shields.io/badge/👫-12_contribuyentes-1d2935.svg?style=flat" alt="Contribuyentes">
   </a>
   <a href="#-quieres-ser-speaker-">
-    <img src="https://img.shields.io/badge/🎤-4_speakers-1d2935.svg?style=flat" alt="Speakers">
+    <img src="https://img.shields.io/badge/🎤-7_speakers-1d2935.svg?style=flat" alt="Speakers">
   </a>
   <a href="RESOURCES.md">
     <img src="https://img.shields.io/badge/💰-1_patrocinador-1d2935.svg?style=flat" alt="Speakers">
@@ -50,6 +50,7 @@ Si estás en Medellín y eres apasionado como nosotros, ¡ven a nuestro próximo
 
 1. **[Hablemos de Angular en Medellín](meetups/1-hablemos-de-angular-en-medellin)**
 2. **[Cosas que no sabías de Angular](meetups/2-cosas-que-no-sabías-de-angular)**
+3. **[Angular: Lo mejor está por venir](meetups/3-angular-lo-mejor-está-por-venir)**
 
 ## 📢 Chat 📢
 
