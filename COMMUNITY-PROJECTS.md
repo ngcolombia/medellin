@@ -4,13 +4,13 @@ In Angular Medellín we are eager to do more practical stuff 🙋, we want our m
 
 You want to participate? 😏 Not a ~number(NaN)~ problem! Just **click** the issue number, **read** the thread and **put** a comment saying you want to be part of it! 💪
 
-| Project             | Status          | Complexity | Issue     | Leader       |
-| --------------------|-----------------|:----------:|-----------|:------------:|
-| 📋 Meetup Form      | ✅ In progress | Small      | **[#30]** | [@danielcb29]
-| ♿ Accessible Meetup| ✅ In progress | Medium     | **[#25]** | [@teffcode]
-| 📬 Newsletter       | ✅ In progress | Medium     | **[#16]** | [@cardotrejos]
-| 📢 Blog             | ⏰ Not started | High       | **[#34]** | -
-| 💻 Website          | ⏰ Not started | High       |           | -
+| Project             | Status          | Complexity | Issue     |
+| --------------------|-----------------|:----------:|-----------|
+| 📋 Meetup Form      | ✅ In progress | Small      | **[#30]** |
+| ♿ Accessible Meetup| ✅ In progress | Medium     | **[#25]** |
+| 📬 Newsletter   | 🔂 Merged with Form | Medium     | **[#16]** | 
+| 📢 Blog             | ⏰ Not started | High       | **[#34]** |
+| 💻 Website          | ⏰ Not started | High       |           |
 
 ## 📋 Meetup Form 📋
 
