@@ -8,7 +8,7 @@
     - Daniel Correa | @danielcb29
     - Laura Ciro | @ltciro
     - Fabián Buitrago | @Fabian-Buitrago
-- **Slides:** [Disponibles aquí](https://drive.google.com/open?id=15DELF7a5I_x2puU-cl7VsXjxHIYAma7HQYGNGnDfd08)
+- **Tutorial:** [Disponibles aquí](https://github.com/jvandemo/generator-angular2-library/)
 
 ## 2. 😉 Sass, Atomic Design, BEM y SMACSS 
 
@@ -24,3 +24,6 @@
 
 - **Speaker:** Luis Aviles | @luixaviles
 - **Procedencia:** Bolivia
+
+- **Speaker:** Shmuela | @ShmuelaJ
+- **Procedencia:** Israel
