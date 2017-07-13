@@ -1,5 +1,7 @@
 # Cosas que no sabías de Angular
 
+### [Introduction Slides](http://slides.com/jdjuan/ng-med-2#/)
+
 ## 1. 😊 Cómo crear tu primera aplicación profesional de Angular [Práctico] 
 
 - **Speaker:** Juan Herrera (@jdjuan)
