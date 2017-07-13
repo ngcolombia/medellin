@@ -1,4 +1,6 @@
-# [Cosas que no sabías de Angular](http://slides.com/jdjuan/angular-medellin-10#/)
+# Lo mejor está por venir
+
+### [Introduction Slides](http://slides.com/jdjuan/angular-medellin-10#/)
 
 ## 1. 😊 Cómo crear una librería para Angular [Práctico] 
 
