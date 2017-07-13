@@ -1,5 +1,7 @@
 # Hablemos de Angular en Medellín
 
+### [Introduction Slides](http://slides.com/jdjuan/angular-medellin#/)
+
 ## 1. Charla de inauguración de la comunidad 
 
 - **Speaker:** Juan Herrera (@jdjuan)
