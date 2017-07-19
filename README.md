@@ -80,12 +80,6 @@ Sólo asegúrate de seguir [**estas instrucciones**](https://github.com/angular-
 - 🎤 Seguro hay un tema que te mueres por aprender ¿Qué charla te gustaría escuchar [**la próxima vez**](https://github.com/angular-medellin/meetup/issues?q=is%3Aopen+is%3Aissue+label%3A%22Pr%C3%B3ximo+tema%22)?
 - 📢 Tal vez sólo quieres darnos tu retroalimentación: Siempre estamos dispuestos a escuchar lo que tengas para decir, bien sea :poop: o :heart:
 
-## 💰 ¿Quieres patrocinarnos? 💰
-
-Angular Medellín es una comunidad sin ánimo de lucro. Usamos el patrocinio para cubrir los costos de los meetups e incentivar a los asistentes a participar.
-
-Si quieres patrocinarnos puedes contactarnos [aquí](https://github.com/angular-medellin/meetup#phone-contacto-phone).
-
 ## 🕴 ¿Quieres ser organizador? 🕴
 
 Nos parece maravilloso que quieras participar más activamente en la comunidad. Explícanos por qué y cómo tus habilidades pueden hacer crecer esta comunidad [aquí](https://github.com/angular-medellin/meetup/issues) :octocat:.
