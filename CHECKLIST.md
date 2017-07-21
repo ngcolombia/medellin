@@ -24,7 +24,8 @@
 - **👄 Support other languages if applies:** Make room for a 10 minute talk in another language to motivate the community to learn and practice
 - **♿️ Make your contents accessible:** Make sure sure all the contents of the next meetup are accessible for people with disabilities
 - **🤵 Find an international speaker:** Have someone from another country to speak for 10-15 minutes in a Hangout
-  
+- **⏰ Non-practical Talks should be short:** Talks with no practical content can make people get bored, make sure those are short (up to 30 minutes).
+
 ### Information
 
 Include this sections in your meetup event description:
@@ -55,11 +56,17 @@ Don't forget to create a form to get a real insight of the number of people that
 ### Workshops
 
 - 📁 Create a document with environmental setup so all (not really, but at least most) of the attendees come with all the tools installed and ready
-- ⌨ Create a repository that holds all the code that will be written during the workshop. Creating branches to denote every step makes it easier for the attendees to fully understand the differences between steps. Use numbers to name the branches
+- 🤳 Test your workshop the same week of the event, that way you can reduce the chances of something failing due to some dependency update.
+- 💾 Test your workshop on different Operative Systems, that way you know what to do when they find a OS stopper.
+- 👴 Prepare your workshop with someone who doesn't know anything about the topic, that way can validate the way your workshop is given.
+- ⌨ Create a repository that holds all the code that will be written during the workshop. Creating branches to denote every step makes it easier for the attendees to fully understand the differences between steps. Use numbers to name the branches.
+- 📝 Put every step of the process in the slides, that's easier for people to follow.
 - 👨‍👩‍👧‍👦 Ask members of the community for help prior to the workshop. The should serve as assistants when any of the attendees is stuck in the process. They should be contacted at least two weeks before the event, so they can study the contents and be ready to help
 - **🔌 Power extensions:** If you are running a workshop make sure that you have enough power outlets for most of the members of the meetup
 
 ## During the event
+
+Speak slow so everyone can understand 👴👵
 
 - **🍪 Have someone receive and place the snacks:** Make sure someone is in charge of getting the snacks on time
 - **🔑 Project wifi credentials (if you have enough bandwidth):** Before the event starts, project a slide with the wifi network and password such as **[this one](http://slides.com/jdjuan/angular-medellin#/)**
