@@ -46,11 +46,12 @@ Angular Medellín es una comunidad de personas interesadas en aprender un poco m
 
 Si estás en Medellín y eres apasionado como nosotros, ¡ven a nuestro próximo meetup y haz parte de nuestra comunidad!
 
-## 📆 Meetups 📆
+## 📆 Meetups Pasados 📆
 
 1. **[Hablemos de Angular en Medellín](meetups/1-hablemos-de-angular-en-medellin)**
 2. **[Cosas que no sabías de Angular](meetups/2-cosas-que-no-sabías-de-angular)**
 3. **[Angular: Lo mejor está por venir](meetups/3-angular-lo-mejor-está-por-venir)**
+4. **[Angular Medellín: Hecho para vos](meetups/4-angular-medellin-hecho-para-vos)**
 
 ## 📢 Chat 📢
 

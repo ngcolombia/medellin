@@ -1,6 +1,6 @@
 # Lo mejor está por venir
 
-### [Introduction Slides](http://slides.com/jdjuan/angular-medellin-10#/)
+### [Introduction Slides](http://slides.com/jdjuan/ng-med-3)
 
 ## 1. 😊 Cómo crear una librería para Angular [Práctico] 
 

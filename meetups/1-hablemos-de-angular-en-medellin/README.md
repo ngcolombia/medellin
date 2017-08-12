@@ -1,6 +1,6 @@
 # Hablemos de Angular en Medellín
 
-### [Introduction Slides](http://slides.com/jdjuan/angular-medellin#/)
+### [Introduction Slides](https://slides.com/jdjuan/ng-med-1)
 
 ## 1. Charla de inauguración de la comunidad 
 
