@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="https://www.meetup.com/Angular-Medellin/members/">
-    <img src="https://img.shields.io/badge/👫-+400_miembros-1d2935.svg?style=flat" alt="Contribuyentes">
+    <img src="https://img.shields.io/badge/👫-+500_miembros-1d2935.svg?style=flat" alt="Contribuyentes">
   </a>
   <a href="#-contribuyentes-">
-    <img src="https://img.shields.io/badge/👫-12_contribuyentes-1d2935.svg?style=flat" alt="Contribuyentes">
+    <img src="https://img.shields.io/badge/👫-17_contribuyentes-1d2935.svg?style=flat" alt="Contribuyentes">
   </a>
   <a href="#-quieres-ser-speaker-">
-    <img src="https://img.shields.io/badge/🎤-7_speakers-1d2935.svg?style=flat" alt="Speakers">
+    <img src="https://img.shields.io/badge/🎤-9_speakers-1d2935.svg?style=flat" alt="Speakers">
   </a>
   <a href="RESOURCES.md">
     <img src="https://img.shields.io/badge/💰-1_patrocinador-1d2935.svg?style=flat" alt="Speakers">
@@ -94,7 +94,8 @@ Gracias a estas maravillosas personas:
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 | [<img src="https://avatars3.githubusercontent.com/u/3171900?v=3" width="100px;"/><br /><sub>Juan Herrera</sub>](http://juandavidherrera.com/en)<br /> | [<img src="https://avatars0.githubusercontent.com/u/464978?v=3" width="100px;"/><br /><sub>Alejandro Ñáñez Ortiz</sub>](http://co.linkedin.com/in/alejandronanez/)<br /> | [<img src="https://avatars0.githubusercontent.com/u/8260962?v=3" width="100px;"/><br /><sub>Daniel Correa</sub>](https://github.com/danielcb29)<br /> | [<img src="https://avatars2.githubusercontent.com/u/19215389?v=3" width="100px;"/><br /><sub>Melina Mejía Bedoya</sub>](https://github.com/MelinaMejia95)<br /> | [<img src="https://avatars3.githubusercontent.com/u/10712317?v=3" width="100px;"/><br /><sub>Felipe Jaramillo </sub>](https://github.com/p1p3)<br /> | [<img src="https://avatars1.githubusercontent.com/u/7959823?v=3" width="100px;"/><br /><sub>Diego Coy</sub>](https://diegocoy.com)<br /> | [<img src="https://avatars0.githubusercontent.com/u/17012545?v=3" width="100px;"/><br /><sub>Laura Ciro</sub>](https://github.com/ltciro)<br /> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://avatars1.githubusercontent.com/u/9866446?v=3" width="100px;"/><br /><sub>Fabian Buitrago</sub>](https://github.com/Fabian-Buitrago)<br /> | [<img src="https://avatars2.githubusercontent.com/u/25943655?v=3" width="100px;"/><br /><sub>teffcode</sub>](https://github.com/teffcode)<br /> | [<img src="https://avatars3.githubusercontent.com/u/9259335?v=3" width="100px;"/><br /><sub>Alvaro Martinez</sub>](https://github.com/alvaromartinez986)<br /> | [<img src="https://avatars0.githubusercontent.com/u/348883?v=3" width="100px;"/><br /><sub>Jorge Ramírez</sub>](http://shinkei.github.io/)<br /> | [<img src="https://avatars0.githubusercontent.com/u/19542631?v=3" width="100px;"/><br /><sub>Juan Camilo Perez Morales</sub>](https://github.com/juancapm09)<br /> |
+| [<img src="https://avatars1.githubusercontent.com/u/9866446?v=3" width="100px;"/><br /><sub>Fabian Buitrago</sub>](https://github.com/Fabian-Buitrago)<br /> | [<img src="https://avatars2.githubusercontent.com/u/25943655?v=3" width="100px;"/><br /><sub>teffcode</sub>](https://github.com/teffcode)<br /> | [<img src="https://avatars3.githubusercontent.com/u/9259335?v=3" width="100px;"/><br /><sub>Alvaro Martinez</sub>](https://github.com/alvaromartinez986)<br /> | [<img src="https://avatars0.githubusercontent.com/u/348883?v=3" width="100px;"/><br /><sub>Jorge Ramírez</sub>](http://shinkei.github.io/)<br /> | [<img src="https://avatars0.githubusercontent.com/u/19542631?v=3" width="100px;"/><br /><sub>Juan Camilo Perez Morales</sub>](https://github.com/juancapm09)<br /> | [<img src="https://avatars2.githubusercontent.com/u/5846742?v=4" width="100px;"/><br /><sub>Ed Morales</sub>](https://github.com/emoralesb05)<br /> | [<img src="https://avatars0.githubusercontent.com/u/7102342?v=4" width="100px;"/><br /><sub>royalcas</sub>](https://github.com/royalcas)<br /> |
+| [<img src="https://avatars2.githubusercontent.com/u/17752391?v=4" width="100px;"/><br /><sub>Santiago Molina Orozco</sub>](https://www.justbit.site)<br /> | [<img src="https://avatars0.githubusercontent.com/u/3485075?v=4" width="100px;"/><br /><sub>Luis Aviles</sub>](https://twitter.com/luixaviles)<br /> | [<img src="https://avatars0.githubusercontent.com/u/4953875?v=4" width="100px;"/><br /><sub>Shmuela Jacobs</sub>](https://github.com/shmool)<br /> |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Este proyecto sigue la especificación de [all-contributors](https://github.com/kentcdodds/all-contributors). Cualquier tipo de contribución es bienvenida!
