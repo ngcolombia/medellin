@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://www.meetup.com/Angular-Medellin/">
-    <img width=100% src="assets/angular-medellin-banner.png">
+    <img width=100% src="assets/img/angular-medellin-banner.png">
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.meetup.com/Angular-Medellin/">
-    <img width=80% src="assets/community.jpg">
+    <img width=80% src="assets/img/community.jpg">
   </a>
 </p>
 
@@ -20,13 +20,13 @@
   <a href="#-quieres-ser-speaker-">
     <img src="https://img.shields.io/badge/🎤-14_speakers-1d2935.svg?style=flat" alt="Speakers">
   </a>
-  <a href="RESOURCES.md">
+  <a href="http://yuxiglobal.com/">
     <img src="https://img.shields.io/badge/💰-1_patrocinador-1d2935.svg?style=flat" alt="Speakers">
   </a>
   <a href="https://twitter.com/jdjuan">
     <img src="https://img.shields.io/badge/🕴-1_organizador-1d2935.svg?style=flat" alt="Speakers">
   </a>
-  <a href="CODE-OF-CONDUCT.md">
+  <a href="./assets/CODE-OF-CONDUCT.md">
     <img src="https://img.shields.io/badge/👮-1_código_de_conducta-1d2935.svg?style=flat" alt="Código de Conducta">
   </a>
   <br><br>
@@ -66,7 +66,7 @@ Todos saben que las comunidades más cool 😎 tienen un chat privado. ¡Nosotro
 ## 📁 Recursos 📁
 
 Hemos creado una lista con los eventos más importantes de Angular en el mundo. Si nos falta alguno, no temas en añadirlo al documento.
-**¡Échale un vistazo [aquí](RESOURCES.md)!**
+**¡Échale un vistazo [aquí](./assets/RESOURCES.md)!**
 
 # 💪 ¡Participa! 💪
 
@@ -74,7 +74,7 @@ Hemos creado una lista con los eventos más importantes de Angular en el mundo. 
 
 ¡Nos encanta que subas al escenario! No hace falta ser un experto :neckbeard: ni ahondar en aspectos técnicos, de hecho, ¡disfrutamos mucho las charlas creativas!
 
-Sólo asegúrate de seguir [**estas instrucciones**](https://github.com/angular-medellin/meetup/blob/master/SPEAKERS.md), nosotros nos encargamos del resto. Serás un rockstar en el escenario 🤴👸
+Sólo asegúrate de seguir [**estas instrucciones**](./assets/SPEAKERS.md), nosotros nos encargamos del resto. Serás un rockstar en el escenario 🤴👸
 
 ¿Necesitas inspiración? Échale un ojo a [las charlas que nuestros miembros se mueren por escuchar](https://github.com/angular-medellin/meetup/issues?q=is%3Aopen+is%3Aissue+label%3A%22Se+busca+speaker%22).
 
@@ -109,5 +109,5 @@ Este proyecto sigue la especificación de [all-contributors](https://github.com/
 ## 🤝 Patrocinadores 🤝
 
 <a href="http://yuxiglobal.com/" target="_blank">
-<img width=20% src="assets/yuxi-global-logo.png">
+<img width=20% src="assets/img/yuxi-global-logo.png">
 </a>
