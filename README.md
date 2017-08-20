@@ -5,12 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.meetup.com/Angular-Medellin/">
-    <img width=80% src="assets/img/community.jpg">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://www.meetup.com/Angular-Medellin/members/">
     <img src="https://img.shields.io/badge/👫-+600_miembros-1d2935.svg?style=flat" alt="Contribuyentes">
   </a>
@@ -26,8 +20,12 @@
   <a href="https://twitter.com/jdjuan">
     <img src="https://img.shields.io/badge/🕴-1_organizador-1d2935.svg?style=flat" alt="Speakers">
   </a>
-  <a href="./assets/CODE-OF-CONDUCT.md">
+  <a href="./CODE_OF_CONDUCT.md">
     <img src="https://img.shields.io/badge/👮-1_código_de_conducta-1d2935.svg?style=flat" alt="Código de Conducta">
+  </a>
+  <br><br>
+  <a href="https://www.meetup.com/Angular-Medellin/">
+    <img width=70% src="assets/img/community.jpg">
   </a>
   <br><br>
   <a href="https://github.com/angular-medellin/meetup/stargazers">
