@@ -5,14 +5,20 @@
 </p>
 
 <p align="center">
+  <a href="https://www.meetup.com/Angular-Medellin/">
+    <img width=80% src="assets/community.jpg">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.meetup.com/Angular-Medellin/members/">
-    <img src="https://img.shields.io/badge/👫-+500_miembros-1d2935.svg?style=flat" alt="Contribuyentes">
+    <img src="https://img.shields.io/badge/👫-+600_miembros-1d2935.svg?style=flat" alt="Contribuyentes">
   </a>
   <a href="#-contribuyentes-">
     <img src="https://img.shields.io/badge/👫-17_contribuyentes-1d2935.svg?style=flat" alt="Contribuyentes">
   </a>
   <a href="#-quieres-ser-speaker-">
-    <img src="https://img.shields.io/badge/🎤-9_speakers-1d2935.svg?style=flat" alt="Speakers">
+    <img src="https://img.shields.io/badge/🎤-14_speakers-1d2935.svg?style=flat" alt="Speakers">
   </a>
   <a href="RESOURCES.md">
     <img src="https://img.shields.io/badge/💰-1_patrocinador-1d2935.svg?style=flat" alt="Speakers">
@@ -77,7 +83,7 @@ Sólo asegúrate de seguir [**estas instrucciones**](https://github.com/angular-
 ¡Oh vaya! No has hecho sonrojar 😊 Nos alegra que quieras darnos una mano, puedes hacerlo a través de un [**issue**](https://github.com/angular-medellin/meetup/issues) :octocat: Aquí tienes algunas ideas:
 
 - 💡 Nos encantan las [**propuestas de mejora**](https://github.com/angular-medellin/meetup/issues?q=is%3Aopen+is%3Aissue+label%3A%22Propuesta+de+mejora%22), nos mantienen con la mente abierta
-- 💼 Nuestros miembros son muy activos ¿Tienes algún proyecto en el que podamos trabajar? Nuestro [**roadmap**](https://github.com/angular-medellin/meetup/blob/master/COMMUNITY-PROJECTS.md) te puede servir de inspiración
+- 💼 Nuestros miembros son muy activos. [**Aquí**](https://github.com/angular-medellin/meetup/wiki) puedes encontrar los proyectos en los que actualmente estamos trabajando. 
 - 🎤 Seguro hay un tema que te mueres por aprender ¿Qué charla te gustaría escuchar [**la próxima vez**](https://github.com/angular-medellin/meetup/issues?q=is%3Aopen+is%3Aissue+label%3A%22Pr%C3%B3ximo+tema%22)?
 - 📢 Tal vez sólo quieres darnos tu retroalimentación: Siempre estamos dispuestos a escuchar lo que tengas para decir, bien sea :poop: o :heart:
 
@@ -94,8 +100,8 @@ Gracias a estas maravillosas personas:
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 | [<img src="https://avatars3.githubusercontent.com/u/3171900?v=3" width="100px;"/><br /><sub>Juan Herrera</sub>](http://juandavidherrera.com/en)<br /> | [<img src="https://avatars0.githubusercontent.com/u/464978?v=3" width="100px;"/><br /><sub>Alejandro Ñáñez Ortiz</sub>](http://co.linkedin.com/in/alejandronanez/)<br /> | [<img src="https://avatars0.githubusercontent.com/u/8260962?v=3" width="100px;"/><br /><sub>Daniel Correa</sub>](https://github.com/danielcb29)<br /> | [<img src="https://avatars2.githubusercontent.com/u/19215389?v=3" width="100px;"/><br /><sub>Melina Mejía Bedoya</sub>](https://github.com/MelinaMejia95)<br /> | [<img src="https://avatars3.githubusercontent.com/u/10712317?v=3" width="100px;"/><br /><sub>Felipe Jaramillo </sub>](https://github.com/p1p3)<br /> | [<img src="https://avatars1.githubusercontent.com/u/7959823?v=3" width="100px;"/><br /><sub>Diego Coy</sub>](https://diegocoy.com)<br /> | [<img src="https://avatars0.githubusercontent.com/u/17012545?v=3" width="100px;"/><br /><sub>Laura Ciro</sub>](https://github.com/ltciro)<br /> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [<img src="https://avatars1.githubusercontent.com/u/9866446?v=3" width="100px;"/><br /><sub>Fabian Buitrago</sub>](https://github.com/Fabian-Buitrago)<br /> | [<img src="https://avatars2.githubusercontent.com/u/25943655?v=3" width="100px;"/><br /><sub>teffcode</sub>](https://github.com/teffcode)<br /> | [<img src="https://avatars3.githubusercontent.com/u/9259335?v=3" width="100px;"/><br /><sub>Alvaro Martinez</sub>](https://github.com/alvaromartinez986)<br /> | [<img src="https://avatars0.githubusercontent.com/u/348883?v=3" width="100px;"/><br /><sub>Jorge Ramírez</sub>](http://shinkei.github.io/)<br /> | [<img src="https://avatars0.githubusercontent.com/u/19542631?v=3" width="100px;"/><br /><sub>Juan Camilo Perez Morales</sub>](https://github.com/juancapm09)<br /> | [<img src="https://avatars2.githubusercontent.com/u/5846742?v=4" width="100px;"/><br /><sub>Ed Morales</sub>](https://github.com/emoralesb05)<br /> | [<img src="https://avatars0.githubusercontent.com/u/7102342?v=4" width="100px;"/><br /><sub>royalcas</sub>](https://github.com/royalcas)<br /> |
-| [<img src="https://avatars2.githubusercontent.com/u/17752391?v=4" width="100px;"/><br /><sub>Santiago Molina Orozco</sub>](https://www.justbit.site)<br /> | [<img src="https://avatars0.githubusercontent.com/u/3485075?v=4" width="100px;"/><br /><sub>Luis Aviles</sub>](https://twitter.com/luixaviles)<br /> | [<img src="https://avatars0.githubusercontent.com/u/4953875?v=4" width="100px;"/><br /><sub>Shmuela Jacobs</sub>](https://github.com/shmool)<br /> |
+| [<img src="https://avatars1.githubusercontent.com/u/9866446?v=3" width="100px;"/><br /><sub>Fabian Buitrago</sub>](https://github.com/Fabian-Buitrago)<br /> | [<img src="https://avatars2.githubusercontent.com/u/25943655?v=3" width="100px;"/><br /><sub>teffcode</sub>](https://github.com/teffcode)<br /> | [<img src="https://avatars3.githubusercontent.com/u/9259335?v=3" width="100px;"/><br /><sub>Alvaro Martinez</sub>](https://github.com/alvaromartinez986)<br /> | [<img src="https://avatars0.githubusercontent.com/u/348883?v=3" width="100px;"/><br /><sub>Jorge Ramírez</sub>](http://shinkei.github.io/)<br /> | [<img src="https://avatars0.githubusercontent.com/u/19542631?v=3" width="100px;"/><br /><sub>Juan Camilo Perez Morales</sub>](https://github.com/juancapm09)<br /> | [<img src="https://avatars3.githubusercontent.com/u/20744476?v=4" width="100px;"/><br /><sub>Harlen Giraldo</sub>](https://github.com/H4isan)<br /> | [<img src="https://avatars2.githubusercontent.com/u/16061815?v=4" width="100px;"/><br /><sub>Maria Camila Gomez Restrepo</sub>](https://github.com/camigomez35)<br /> |
+| [<img src="https://avatars3.githubusercontent.com/u/5982204?v=4" width="100px;"/><br /><sub>Jorge Cano</sub>](https://medium.com/@jorgeucano)<br /> | [<img src="https://avatars2.githubusercontent.com/u/39881?v=4" width="100px;"/><br /><sub>Josue</sub>](https://twitter.com/eusoj)<br /> | [<img src="https://avatars2.githubusercontent.com/u/6851052?v=4" width="100px;"/><br /><sub>camilo</sub>](https://github.com/camilo56)<br /> | [<img src="https://avatars1.githubusercontent.com/u/1382824?v=4" width="100px;"/><br /><sub>Pablo Velásquez</sub>](http://www.pablovem.com/)<br /> |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 Este proyecto sigue la especificación de [all-contributors](https://github.com/kentcdodds/all-contributors). Cualquier tipo de contribución es bienvenida!
