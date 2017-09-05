@@ -38,6 +38,7 @@ First, we want blind people and those with visual impairment to be able to enjoy
 - ⚓️ Don't speak too fast and try to be as clear as possible. 
 - 🔉 It's okay if you show pictures, but do your best to describe them completely as you explain them.
 - 📢 Narrate each piece of code or command you type.
+- 👌 [Optional] Add transparent descriptions to your pictures. The description will be invisible to the audience so it won't interfere with the picture, but at the same time people blind people will be able to read it using screen readers.
 
 ## 2. Content 
 
