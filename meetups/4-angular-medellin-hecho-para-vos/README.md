@@ -5,7 +5,7 @@
 ## 1. 😊 GraphQL y Angular
 
 - **Speaker:** Harlen Giraldo | @H4aisan
-- **Slides:** [Disponibles aquí](https://github.com/jvandemo/generator-angular2-library/)
+- **Slides:** [Disponibles aquí](https://slides.com/elharlen/graphqlng/)
 
 ## 2. 😉 Ionic 3.0 y Angular 
 
