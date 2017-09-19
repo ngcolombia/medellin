@@ -11,6 +11,7 @@
 ## 2. 😉 Animaciones y Angular 
 
 - **Speaker:** Carlos Angulo | @CarlosACNS
+- **Slides:** [Disponibles aquí](https://drive.google.com/open?id=0B2LpSSLNjcc7V1dndXIzb1lBMkU)
 
 ## 3. 😎 Invitados
 
