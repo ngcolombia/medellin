@@ -4,8 +4,9 @@
 
 ## 1. 😊 Firebase y Angular
 
-- **Speaker:** Jorge Ramirez | @shinkei
+- **Speaker:** Jorge Ramírez | [@Shinkei1](https://twitter.com/Shinkei1)
 - **Slides:** [Disponibles aquí](http://slides.com/shinkei/angularfire#/)
+- **Tutorial de la Charla** [Disponibles aquí](https://github.com/Shinkei/angular-firebase-tutorial)
 
 ## 2. 😉 Animaciones y Angular 
 
