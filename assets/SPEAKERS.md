@@ -25,7 +25,7 @@ The faster your finish your slides the faster we start announcing your talk 😏
 
 ### 3. Your talk is announced 🌟🌟🌟
 
-Once organizers have reviewed your slides and gave you feedback,your talk will be publicly announced. Get ready to rock'n roll in the stage! 😎
+Once organizers have reviewed your slides and gave you feedback, your talk will be publicly announced. Get ready to rock'n roll in the stage! 😎
 
 # Guidelines 📏
 
@@ -38,13 +38,13 @@ First, we want blind people and those with visual impairment to be able to enjoy
 - ⚓️ Don't speak too fast and try to be as clear as possible. 
 - 🔉 It's okay if you show pictures, but do your best to describe them completely as you explain them.
 - 📢 Narrate each piece of code or command you type.
-- 👌 [Optional] Add transparent descriptions to your pictures. The description will be invisible to the audience so it won't interfere with the picture, but at the same time people blind people will be able to read it using screen readers.
+- 👌 [Optional] Add transparent descriptions to your pictures. The description will be invisible to the audience so it won't interfere with the picture, but at the same time blind people will be able to read it using screen readers.
 
 ## 2. Content 
 
 - 😇 In general keep your content neutral, non-violent and non-sexual, etc. You get the picture...
 - ⭐️ introduce yourself, who you are and what you do. Let people relate to you
-- 🤵 Whatever topic you are presenting, don't forget to answer this three questions:
+- 🤵 Whatever topic you are presenting, don't forget to answer these three questions:
   - **Why:** Why is your talk relevant to the audience. What problems it solves. Why do they need it.
   - **How:** How does the technology solves that problem.
   - **What:** Make a demo, show'em the product!
@@ -53,15 +53,15 @@ First, we want blind people and those with visual impairment to be able to enjoy
 ## 3. Interaction 🙋
 
 - Avoid asking questions just right after you get in the stage, people is shy 😳 (at the beginning). Build confidence first, talk for a while, get them to know you.
-- Don't challenge the audience to see whether they know a concept or not, instead, encourage them to participate by asking easy questions anyone could answer such us: *"Raise up your hand those who have used this technology..."* 🙋
+- Don't challenge the audience to see whether they know a concept or not, instead, encourage them to participate by asking easy questions anyone could answer such as: *"Raise up your hand those who have used this technology..."* 🙋
 - Keep your content interesting and accessible for a wider audience. Complex scenarios that only apply to certain rare cases can/should be discussed offline 🤔
 - Keep your audience engaged, make sure most of them are following you, if they look dead-eye/sleepy 😴 chances are that they got bored/lost 😴 Take a deep breath and try to gain their interest again.
 
 ## 4. Slides 📺
 
-- 📊 People love visual aids, images, diagrams, memes, gifs (especially gifs). They can help people grab concepts much faster than long complex paragraphs.
+- 📊 People love visual aids, images, diagrams, memes, gifs (especially gifs). They can help people grab concepts much faster than long complex paragraphs. Use them fullscreen!
 - 📝 Strive to use text for (short) titles, quotes or lists only.
-- 👀 We want to make sure everyone in the audience can see what you present. Whatever your content is, make it big, and when I say big I mean it: Big font sizes, full screen images, etc. 
+- 👀 We want to make sure everyone in the audience can see what you present. Whatever your content is, make it big, and when I say big I mean it: Big font sizes, fullscreen images, etc. 
 - 🌈 Using a big font size can be helpful but using the right colors is key. Probably you don't even know your color palette, that's ok, just make sure you use **high contrasts colors** to differentiate your content.
 - 💾 You need to show a few lines of code? Cool, just don't use more than 20 lines of code. And if you do show code, make sure you are taking advantage of the whole screen, the bigger the font size of your code the more readable it is. (The contrast here is key as well).
 - ⚓️ Your hyperlinks should not be visible in the screen unless they are small enough for people to remember them. Instead, attach hyperlinks to your texts or images. When people get access to your slides they will be able to click around.
