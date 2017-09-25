@@ -64,6 +64,7 @@ First, we want blind people and those with visual impairment to be able to enjoy
 - 👀 We want to make sure everyone in the audience can see what you present. Whatever your content is, make it big, and when I say big I mean it: Big font sizes, full screen images, etc. 
 - 🌈 Using a big font size can be helpful but using the right colors is key. Probably you don't even know your color palette, that's ok, just make sure you use **high contrasts colors** to differentiate your content.
 - 💾 You need to show a few lines of code? Cool, just don't use more than 20 lines of code. And if you do show code, make sure you are taking advantage of the whole screen, the bigger the font size of your code the more readable it is. (The contrast here is key as well).
+- ⚓️ Your hyperlinks should not be visible in the screen unless they are small enough for people to remember them. Instead, attach hyperlinks to your texts or images. When people get access to your slides they will be able to click around.
 
 ## 5. Code 💾
 
