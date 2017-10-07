@@ -63,6 +63,7 @@
 - 💻 Make sure the recording software is on and working. Show all presentations from the computer that is recording the screen.
 - 🎥 Make sure the recording is ready by the time you start the meetup, making sure the lens are correctly set.
 - **🤳 Ask someone professionally to take photos:** Photos are a great way to attract new members to participate, so make sure you take enough photos during the event. 🎥 Video is also a great resource.
+- Make a boomerang
 
 ### Logistics
 
