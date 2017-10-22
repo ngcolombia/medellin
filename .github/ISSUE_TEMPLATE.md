@@ -5,11 +5,11 @@
 <!--- Selecciona con una "x" => [x] -->
 
 - [ ] 😎 Ser el próximo speaker
-- [ ] 😃 Proponer un tema 
+- [ ] 😃 Proponer un tema
+- [ ] 🤓 Escribir un artículo
 - [ ] 😋 Sugerir una idea/proyecto
 - [ ] 🤠 Convertirme en organizador
 - [ ] 🤕 Resolver una duda técnica
 - [ ] 🤡 Otro
 
 ## Descripción
-
