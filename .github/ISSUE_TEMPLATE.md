@@ -6,7 +6,7 @@
 
 - [ ] 😎 Ser el próximo speaker
 - [ ] 😃 Proponer un tema
-- [ ] :page_facing_up: Escribir un artículo
+- [ ] 🤓 Escribir un artículo
 - [ ] 😋 Sugerir una idea/proyecto
 - [ ] 🤠 Convertirme en organizador
 - [ ] 🤕 Resolver una duda técnica
