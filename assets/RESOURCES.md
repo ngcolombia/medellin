@@ -2,7 +2,7 @@
 
 ## Angular Events
 
-### NG-COLOMBIA
+### NgColombia
 
 - **📆 Date:** November 18th, 2017
 - **📢  Main speakers:** JOSUE GUTIERREZ, SIMONA COTIN, LUIS AVILES, CARLOS ANGULO, MINKO GECHEV, ANDRÉS VILLANUEVA, ISRAEL GUZMÁN, JORGE CANO
@@ -12,18 +12,6 @@
     - Workshop #1: $20
     - Workshop #2: $20
 - **More information:** [NgColombia](http://ng-colombia.org/)
-
-### Angular Camp
-
-- **📆 Date:** July 6th-7th, 2017
-- **📢  Main speakers:** Dmitriy Shekhovtsov, Simona Cotin, Victor Savkin, Todd Motto
-- **🏢 Place:** Barcelona, Spain
-- **💰 Cost information:**
-    - Early Bird ticket until May 15th, 2017: 199€ (Sold out)
-    - Early-Bird Group Ticket until May 15th, 2017: 179€ (Sold out)
-    - Regular ticket starts on May 16th: 259€
-    - Late Bird ticket: 399€
-- **More information:** [Angular Camp](https://angularcamp.org/)
 
 ### Angular Mix
 
@@ -59,6 +47,18 @@
     - Super Early-bird rates expire July 14
     - Buy 4 tickets and the 5th is free.
 - **More information:** [Angular Summit](https://angularsummit.com/conference/boston/2017/09/home)
+
+### Angular Camp
+
+- **📆 Date:** July 6th-7th, 2017
+- **📢  Main speakers:** Dmitriy Shekhovtsov, Simona Cotin, Victor Savkin, Todd Motto
+- **🏢 Place:** Barcelona, Spain
+- **💰 Cost information:**
+    - Early Bird ticket until May 15th, 2017: 199€ (Sold out)
+    - Early-Bird Group Ticket until May 15th, 2017: 179€ (Sold out)
+    - Regular ticket starts on May 16th: 259€
+    - Late Bird ticket: 399€
+- **More information:** [Angular Camp](https://angularcamp.org/)
 
 # Resources to practice English!
 
