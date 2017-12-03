@@ -55,6 +55,7 @@ Si estás en Medellín y eres apasionado como nosotros, ¡ven a nuestro próximo
 4. **[Angular Medellín: Hecho para vos](meetups/4-angular-medellin-hecho-para-vos)**
 5. **[Angular Medellín: Más que una comunidad](meetups/5-angular-medellin-más-que-una-comunidad)**
 6. **[Angular Medellín: Mejor que nunca 😃](meetups/6-angular-medellin-mejor-que-nunca)**
+7. **[Angular Medellín: Último meetup del año ❤️️](meetups/7-angular-medellin-ultimo-meetup-del-año)**
 
 ## 📢 Chat 📢
 
