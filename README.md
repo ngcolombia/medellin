@@ -58,7 +58,7 @@ Si estás en Medellín y eres apasionado como nosotros, ¡ven a nuestro próximo
 
 ## 📢 Chat 📢
 
-Todos saben que las comunidades más cool 😎 tienen un chat privado. ¡Nosotros también! Si quieres conocer las últimas noticias y estar al tanto de todas las novedades, **¡Únete [aquí](https://gitter.im/angular-medellin/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)!**
+Todos saben que las comunidades más cool 😎 tienen un chat privado. ¡Nosotros también! Si quieres conocer las últimas noticias y estar al tanto de todas las novedades, **¡Únete [aquí](https://join.slack.com/t/ng-colombia/shared_invite/enQtMjgwMjc3ODk1NjMyLTBjMmE4YmQzYTA0ZGNjNTVhMmNlMmQ1YWRjNGFlOWE4MDBjMWM3M2UwNmFjZWFhNmZkYzVmNDc3ZWQ5MmQwZmY)!**
 
 ## 📁 Recursos 📁
 
