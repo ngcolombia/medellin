@@ -1,6 +1,6 @@
 # 👦 Speakers 👧
 
-Hello there! So you would like to be a speaker, huh? That's awesome! 👍 In this document we explain the process and the guidelines to make your presentation an artwork ❤️️, check it out! 
+Hello there! So you would like to be a speaker, huh? That's awesome! 👍 In this document we explain the process and the guidelines to make your presentation an artwork 💙 check it out! 
 
 ## Process
 
