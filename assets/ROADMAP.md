@@ -30,8 +30,8 @@ To be the most human-centered tech community in Latin America
 
 ### 2. Live Coding Meetups
 
-- **Purpose:** To teach people coding skills by solving the monthly challenge
-- **Format:** Pair Programming livestream at YouTube 
+- **Purpose:** To teach people Angular by solving coding challenges
+- **Format:** Pair Programming livestream at YouTube
 - **Duration:** 30 minutes
 - **Responsible:** Juan Herrera, Laura Ciro
 
@@ -43,8 +43,8 @@ To be the most human-centered tech community in Latin America
 
 ### 4. Yuxi Labs
 
-- **Purpose:** To teach people Angular basic, medium, and advance skills
-- **Format:** Two weeeks training
+- **Purpose:** To learn Angular by building something together
+- **Format:** Full day gathering
 - **Responsible:** Juan Herrera
 
 ### 5. NgColombia
