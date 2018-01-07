@@ -47,6 +47,12 @@ To be the most human-centered tech community in Latin America
 - **Format:** Full day gathering
 - **Responsible:** Juan Herrera
 
+### 5. VIP Workshops
+
+- **Purpose:** Training in advance angular-specific topics
+- **Format:** 3-hour trainings
+- **Responsible:** Juan Herrera
+
 ### 5. NgColombia
 
 - **Purpose:** To bring the Latin American community together around Angular
