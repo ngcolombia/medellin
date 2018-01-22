@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/💰-1_patrocinador-1d2935.svg?style=flat" alt="Speakers">
   </a>
   <a href="https://twitter.com/jdjuan">
-    <img src="https://img.shields.io/badge/🕴-1_organizador-1d2935.svg?style=flat" alt="Speakers">
+    <img src="https://img.shields.io/badge/🕴🕴-2_organizadores-1d2935.svg?style=flat" alt="Speakers">
   </a>
   <a href="./CODE_OF_CONDUCT.md">
     <img src="https://img.shields.io/badge/👮-1_código_de_conducta-1d2935.svg?style=flat" alt="Código de Conducta">
