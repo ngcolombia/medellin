@@ -4,13 +4,13 @@
   </a>
 </p>
 
-# 2. Labs 🔨
+# 3. Labs 🔨
 
 Los Angular Labs son un espacio en el que pasas un día completo creando una aplicación de Angular de principio a fin de la mano de expertos 🤠
 
 En tan solo 8 horas tendrás tu propia aplicación desplegada en la nube y disponible para que todos tus amigos la vean! 😎
 
-Para aplicar basta con que abras un issue [**aquí**](https://github.com/angular-medellin/meetup/issues) y cuéntanos:
+Para aplicar basta con que abras un issue [**aquí**](https://github.com/angular-medellin/meetup/issues/new) y nos cuentes:
 
 * 😃 Quién eres
 * 😁 Por qué quieres participar de los Angular Labs

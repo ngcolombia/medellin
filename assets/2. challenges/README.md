@@ -2,17 +2,17 @@
     <img width=100% src="./../images/angular-medellin-banner.png">
 </p>
 
-# 3. Challenges 💪
+# 2. Challenges 💪
 
 Los Angular Challenges son desafíos de programación para los miembros de Angular Medellín.
 
-Aquí puedes poner a pruebas tus habilidades, recibir feedback y obtener la gloria perpetua si publicas tu solución como un issue [**aquí**](https://github.com/angular-medellin/meetup/issues).
+Aquí puedes poner a pruebas tus habilidades, recibir feedback y obtener la gloria perpetua si publicas tu solución como un issue [**aquí**](https://github.com/angular-medellin/meetup/issues/new).
 
-## 3.2 Challenge Actual 🎮
+## 2.1 Challenge Actual 🎮
 
 [ON CONSTRUCTION]
 
-## 3.3 Challenges Pasados 👴
+## 2.2 Challenges Pasados 👴
 
 ### [1. Chuck Norris Joke 😎](3-chuck-norris-joke/readme.md)
 
