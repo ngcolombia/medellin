@@ -1,72 +1,48 @@
-# Angular Medellín
+# Roadmap 2018
 
-### Mission
+| Date          | Activity       | Time   |
+| ------------- | -------------- | ------ |
+| January 27th  | Meetup #8      | 2-5 pm |
+| February 9th  | Live Coding #1 | 2-5 pm |
+| February 17th | Angular Lab #1 | 8-4 pm |
+| March 17th    | Meetup #9      | 2-5 pm |
+| April 7th     | Angular Lab #2 | 8-4 pm |
+| April 13th    | Live Coding #2 | 2-4 pm |
+| May 5th       | Meetup #10     | 2-5 pm |
+| May 19th      | Angular Lab #2 | 8-4 pm |
+| May 25th      | Live Coding #3 | 2-4 pm |
+| June 16th     | Meetup #11     | 2-5 pm |
 
-To empower a community of passion-driven people with the necessary capacities to push positive social change.
+## Activities
 
-### Vision
+| Activity                | Purpose                                                           | Format                                                                    | Responsible                                  |
+| ----------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------- |
+| **In-person Meetups**   | To bring people together to share their experience                | 3-hour event with technical, non-technical and international 30-min talks | Juan Herrera, Carlos Angulo, Pablo Velásquez |
+| **Live Coding Meetups** | To teach people Angular by solving coding challenges from scratch | 1-hour pair Programming livestream at YouTube                             | Juan Herrera, Carlos López                   |
+| **Angular Labs**        | To learn Angular by building real apps                            | 2-hour workshop followed by a full-day of hacking                         | Juan Herrera                                 |
+| **Blogging Sessions**   | To encourage people to write a Angular articles                   | 4-hour gathering with mentors that help you write                         | Juan Herrera, Pablo Velásquez                |
+| **Monthly Challenges**  | To encourage members to leverage their Angular skills             | Per meetup challenge in the GitHub repository                             | Juan Herrera, Pablo Velásquez                |
+| **NgColombia**          | To bring the Latin American community together around Angular     | 2-day event with workshops and a main track                               | Juan Herrera, Pablo Velásquez                |
 
-To be the most human-centered tech community in Latin America
+## Channels
 
-### Community Stages
+| Channel              | Purpose                                                                      | Format                                                          | Responsible     |
+| -------------------- | ---------------------------------------------------------------------------- | --------------------------------------------------------------- | --------------- |
+| **Slack**            | To allow Angular Medellín members to ask questions                           | Slack                                                           | Juan Herrera    |
+| **Blog**             | To encourage people to write technical articles                              | Medium 3-5 min articles                                         | Pablo Velásquez |
+| **English-only**     | To allow members to practice english in a dedicated room                     | Slack Channel                                                   | Pablo Velásquez |
+| **Twitter**          | To keep the Angular community updated as to our latest events                | Periodic Tweets                                                 | Harlen Giraldo  |
+| **Public Relations** | To keep a positive relation with other communities, organizations and events | Periodic emails, invitation letters, colaboration letters, etc. | Pablo Velásquez |
 
-1. **Building it** by bringing it together
-1. **Empowering it** by providing real value
-1. **Relinquishing it** by making way for new leaders
+## Angular Labs and Blogging Sessions
 
----
+* **Capacity:** 12
+* **Selection Process:**
+    * Speakers of the previous meetup will be selected by default
+    * The remaining spots will be given to those who fill an issue. It will work as a queue
 
-## Roadmap 2018
-
-### 1. In-person Meetups
-
-- **Purpose:** To bring people together to share their experience
-- **Format:** Three different type of talks of 30 min: 
-    - Technical (Only new people)
-    - Non-technical
-    - International
-- **Duration:** 3 hours
-- **Responsible:** Juan Herrera, Carlos Angulo
-
-### 2. Live Coding Meetups
-
-- **Purpose:** To teach people Angular by solving coding challenges
-- **Format:** Pair Programming livestream at YouTube
-- **Duration:** 30 minutes
-- **Responsible:** Juan Herrera, Laura Ciro
-
-### 3. Blog
-
-- **Purpose:** To encourage people to write technical articles
-- **Format:** Medium Blog
-- **Responsible:** Pablo Velásquez
-
-### 4. Yuxi Labs
-
-- **Purpose:** To learn Angular by building something together
-- **Format:** Full day gathering
-- **Responsible:** Juan Herrera
-
-### 5. VIP Workshops
-
-- **Purpose:** Training in advance angular-specific topics
-- **Format:** 3-hour trainings
-- **Responsible:** Juan Herrera
-
-### 5. NgColombia
-
-- **Purpose:** To bring the Latin American community together around Angular
-- **Format:** Two-day event with workshops and a main track
-- **Responsible:** Juan Herrera, Pablo Velásquez
-
-### 6. Twitter Account
-
-- **Purpose:** To keep the Angular community updated as to our latest events
-- **Format:** Periodic tweets
-- **Responsible:** Harlen Giraldo
-
-### 7. Public Relations
-
-- **Purpose:** To keep a positive relation with other communities, organizations and events
-- **Format:** Periodic email, invitation letters, colaboration letters, etc.
-- **Responsible:** Pablo Velásquez
+- **Meetups:** Join us in the coolest meetup of the city
+    * **Livestreaming:** Watch Carlos and I craft Angular applications from scratch
+- **Challenges:** Leverage your Angular skills with quick problems
+- **Angular Labs:** Join a full day of hacking to build a real-life Angular app
+- **Blogging Sessions:** Write a technical article in this 4-hour workshop

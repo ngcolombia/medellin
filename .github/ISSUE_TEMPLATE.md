@@ -4,12 +4,11 @@
 
 <!--- Selecciona con una "x" => [x] -->
 
-- [ ] 😎 Ser el próximo speaker
-- [ ] 😃 Proponer un tema
-- [ ] 🤓 Escribir un artículo
-- [ ] 😋 Sugerir una idea/proyecto
-- [ ] 🤠 Convertirme en organizador
-- [ ] 🤕 Resolver una duda técnica
-- [ ] 🤡 Otro
+* [ ] 😎 Ser el próximo speaker
+* [ ] 🤠 Publicar mi solución al Angular Challenge
+* [ ] 😁 Participar de los Angular Labs
+* [ ] 😊 Escribir un artículo en el Blog
+* [ ] 😇 Dar feedback
+* [ ] 😋 Otro
 
 ## Descripción
