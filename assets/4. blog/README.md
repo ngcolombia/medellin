@@ -12,7 +12,7 @@ En Angular Medellín creemos firmemente que tienes todas las capacidades para es
 
 Para darte una mano hemos creado los **Blogging Sessions** 🤠. Espacios de 4 horas en los que te ayudaremos a crear tu primer artículo desde cero. Al final de la sesión tu artículo será publicado y tendrás fama infinita! 🕺
 
-Para participar sólo basta con que crees un issue aquí, contándonos:
+Para participar sólo basta con que crees un issue [**aquí**](https://github.com/angular-medellin/meetup/issues/new), contándonos:
 
 * 😃 Quién eres
 * 😁 Por qué quieres participar del Bloggin Session

@@ -44,16 +44,16 @@ Tenemos 4 maneras de participar:
 <br>
 
 <p align="center">
-  <a href="./assets/1. meetups/README.MD#1-meetups-">
+  <a href="./assets/1. meetups/README.md#1-meetups-">
 <img width=45% src="./assets/images/1.png" style="padding: 0.5rem" alt="Meetup: Ven y aprende">
   </a>
-  <a href="./assets/2. challenges/README.MD#2-challenges-">
+  <a href="./assets/2. challenges/README.md#2-challenges-">
 <img width=45% src="./assets/images/2.png" style="padding: 0.5rem" alt="Challenges: Prueba tus habilidades">
   </a>
-  <a href="./assets/3. labs/README.MD#3-labs-">
+  <a href="./assets/3. labs/README.md#3-labs-">
 <img width=45% src="./assets/images/3.png" style="padding: 0.5rem" alt="Labs: Crea aplicaciones">
   </a>
-  <a href="./assets/4. blog/README.MD#4-blog-">
+  <a href="./assets/4. blog/README.md#4-blog-">
 <img width=45% src="./assets/images/4.png" style="padding: 0.5rem" alt="Blog: Escribe artículos">
   </a>
 </p>
