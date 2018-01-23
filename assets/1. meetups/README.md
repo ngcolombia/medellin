@@ -18,7 +18,17 @@ Para conocer nuestro próximo meetup [**entra aquí.**](http://meetup.com/Angula
     <img alt="Meetup Sample Photo" width=70% src="./../images/community-photo.jpeg">
 </p>
 
-## 1.1 ¡Participa como Speaker! 👦👧
+## 1.1 Meetups Virtuales 🎮
+
+De ahora en adelante tendremos un nuevo formato de meetup! 😃
+Consiste en livestreams en el que construiremos aplicaciones de Angular desde cero 🤓
+Estos meetups permitirán que muchas personas puedan acceder a nuestra comunidad sin tener que estar en Medellín.
+
+<p align="left">
+    <img alt="Virtual Meetup Sample Photo" width=50% src="./../images/virtual.png">
+</p>
+
+## 1.2 ¡Participa como Speaker! 👦👧
 
 ¡Nos encanta que subas al escenario! No hace falta ser un experto :neckbeard ni ahondar en aspectos técnicos, de hecho ¡Disfrutamos mucho las charlas creativas!
 

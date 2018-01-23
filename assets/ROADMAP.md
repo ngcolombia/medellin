@@ -9,7 +9,7 @@
 | April 7th     | Angular Lab #2       | 8-4 pm |
 | April 13th    | Meetup #11 (virtual) | 2-4 pm |
 | May 5th       | Meetup #12           | 2-5 pm |
-| May 19th      | Angular Lab #2       | 8-4 pm |
+| May 19th      | Angular Lab #3       | 8-4 pm |
 | May 25th      | Meetup #13 (virtual) | 2-4 pm |
 | June 16th     | Meetup #14           | 2-5 pm |
 
