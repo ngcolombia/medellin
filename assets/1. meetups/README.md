@@ -36,6 +36,10 @@ Sólo asegúrate de seguir [**estas instrucciones**](./SPEAKERS.md#-speakers-), 
 
 ¿Necesitas inspiración? Échale un ojo a [las charlas que nuestros miembros se mueren por escuchar](https://github.com/angular-medellin/meetup/labels/Se%20busca%20speaker).
 
+<p align="left">
+    <img alt="Virtual Meetup Sample Photo" width=50% src="./../images/speaker.jpeg">
+</p>
+
 ## 1.2 Meetups Pasados: 📆
 
 1. **[Hablemos de Angular en Medellín](https://github.com/angular-medellin/meetup/tree/master/assets/1.%20meetups/1-hablemos-de-angular-en-medellin#hablemos-de-angular-en-medell%C3%ADn)**
