@@ -1,28 +1,28 @@
 # Roadmap 2018
 
-| Date          | Activity       | Time   |
-| ------------- | -------------- | ------ |
-| January 27th  | Meetup #8      | 2-5 pm |
-| February 9th  | Live Coding #1 | 2-5 pm |
-| February 17th | Angular Lab #1 | 8-4 pm |
-| March 17th    | Meetup #9      | 2-5 pm |
-| April 7th     | Angular Lab #2 | 8-4 pm |
-| April 13th    | Live Coding #2 | 2-4 pm |
-| May 5th       | Meetup #10     | 2-5 pm |
-| May 19th      | Angular Lab #2 | 8-4 pm |
-| May 25th      | Live Coding #3 | 2-4 pm |
-| June 16th     | Meetup #11     | 2-5 pm |
+| Date          | Activity             | Time   |
+| ------------- | -------------------- | ------ |
+| January 27th  | Meetup #8            | 2-5 pm |
+| February 10th | Angular Lab #1       | 8-4 pm |
+| February 16th | Meetup #9 (virtual)  | 2-5 pm |
+| March 17th    | Meetup #10           | 2-5 pm |
+| April 7th     | Angular Lab #2       | 8-4 pm |
+| April 13th    | Meetup #11 (virtual) | 2-4 pm |
+| May 5th       | Meetup #12           | 2-5 pm |
+| May 19th      | Angular Lab #2       | 8-4 pm |
+| May 25th      | Meetup #13 (virtual) | 2-4 pm |
+| June 16th     | Meetup #14           | 2-5 pm |
 
 ## Activities
 
-| Activity                | Purpose                                                           | Format                                                                    | Responsible                                  |
-| ----------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------- |
-| **In-person Meetups**   | To bring people together to share their experience                | 3-hour event with technical, non-technical and international 30-min talks | Juan Herrera, Carlos Angulo, Pablo Velásquez |
-| **Live Coding Meetups** | To teach people Angular by solving coding challenges from scratch | 1-hour pair Programming livestream at YouTube                             | Juan Herrera, Carlos López                   |
-| **Angular Labs**        | To learn Angular by building real apps                            | 2-hour workshop followed by a full-day of hacking                         | Juan Herrera                                 |
-| **Blogging Sessions**   | To encourage people to write a Angular articles                   | 4-hour gathering with mentors that help you write                         | Juan Herrera, Pablo Velásquez                |
-| **Monthly Challenges**  | To encourage members to leverage their Angular skills             | Per meetup challenge in the GitHub repository                             | Juan Herrera, Pablo Velásquez                |
-| **NgColombia**          | To bring the Latin American community together around Angular     | 2-day event with workshops and a main track                               | Juan Herrera, Pablo Velásquez                |
+| Activity               | Purpose                                                           | Format                                                                    | Responsible                                  |
+| ---------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------------- |
+| **In-person Meetups**  | To bring people together to share their experience                | 3-hour event with technical, non-technical and international 30-min talks | Juan Herrera, Carlos Angulo, Pablo Velásquez |
+| **Virtual Meetups**    | To teach people Angular by solving coding challenges from scratch | 1-hour pair Programming livestream at YouTube                             | Juan Herrera, Carlos López                   |
+| **Angular Labs**       | To learn Angular by building real apps                            | 2-hour workshop followed by a full-day of hacking                         | Juan Herrera                                 |
+| **Blogging Sessions**  | To encourage people to write a Angular articles                   | 4-hour gathering with mentors that help you write                         | Juan Herrera, Pablo Velásquez                |
+| **Monthly Challenges** | To encourage members to leverage their Angular skills             | Per meetup challenge in the GitHub repository                             | Juan Herrera, Pablo Velásquez                |
+| **NgColombia**         | To bring the Latin American community together around Angular     | 2-day event with workshops and a main track                               | Juan Herrera, Pablo Velásquez                |
 
 ## Channels
 
@@ -40,9 +40,3 @@
 * **Selection Process:**
     * Speakers of the previous meetup will be selected by default
     * The remaining spots will be given to those who fill an issue. It will work as a queue
-
-- **Meetups:** Join us in the coolest meetup of the city
-    * **Livestreaming:** Watch Carlos and I craft Angular applications from scratch
-- **Challenges:** Leverage your Angular skills with quick problems
-- **Angular Labs:** Join a full day of hacking to build a real-life Angular app
-- **Blogging Sessions:** Write a technical article in this 4-hour workshop
