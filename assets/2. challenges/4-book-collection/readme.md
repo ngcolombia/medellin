@@ -1,10 +1,8 @@
-# Chuck Norris Joke 😎
+# Book Collection :bowtie:
 
-Create an Angular Application that shows a Chuck Norris Joke every 6 seconds.
+Create an Angular Application that search books from google api and add/remove to a collection.
 
 ## Demo 💻
-
-See demo **[here](https://jdjuan.github.io/learn-angular-http/)**
 
 ![Demo](demo.gif)
 
