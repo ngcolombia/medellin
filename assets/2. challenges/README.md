@@ -10,7 +10,7 @@ Aquí puedes poner a pruebas tus habilidades, recibir feedback y obtener la glor
 
 ## 2.1 Challenge Actual 🎮
 
-### [4. Book Collection :bowtie: ](./challenges/4-book-collection/readme.md)
+### [4. Book Collection :bowtie: ](4-book-collection/readme.md)
 
 <img width=50% src="4-book-collection/demo.gif">
 

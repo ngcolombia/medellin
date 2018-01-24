@@ -8,4 +8,4 @@ Create an Angular Application that search books from google api and add/remove t
 
 # Solution 📋
 
-Post your solution in the [Issues](https://github.com/angular-medellin/challenges/issues) section with the link to your GitHub repository and **receive a gift next meetup!** ⭐️⭐️⭐️
+Post your solution in the [Issues](https://github.com/angular-medellin/meetup/issues/new) section with the link to your GitHub repository and **receive a gift next meetup!** ⭐️⭐️⭐️

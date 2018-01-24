@@ -10,4 +10,4 @@ See demo **[here](https://jdjuan.github.io/learn-angular-http/)**
 
 # Solution 📋
 
-Post your solution in the [Issues](https://github.com/angular-medellin/challenges/issues) section with the link to your GitHub repository and **receive a gift next meetup!** ⭐️⭐️⭐️
+Post your solution in the [Issues](https://github.com/angular-medellin/meetup/issues/new) section with the link to your GitHub repository and **receive a gift next meetup!** ⭐️⭐️⭐️
