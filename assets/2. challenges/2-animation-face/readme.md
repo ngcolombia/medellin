@@ -18,4 +18,4 @@ See demo **[here](https://ltciro.github.io/face-animation/)**
 
 # Solution 📋
 
-Post your solution in the [Issues](https://github.com/angular-medellin/challenges/issues) section with the link to your GitHub repository.
+Post your solution in the [Issues](https://github.com/angular-medellin/meetup/issues/new) section with the link to your GitHub repository.
