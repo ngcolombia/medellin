@@ -25,6 +25,7 @@ Para participar sólo basta con que crees un issue [**aquí**](https://github.co
 
 ## 4.2 Publicaciones Anteriores 📚
 
+* [**Lazy Loading Angular Modules**](https://medium.com/angularmedellin/lazy-loading-angular-modules-58fc844b5c7d)
 * [**NgColombia Survey Results**](https://medium.com/angularmedellin/ngcolombia-survey-results-60f57f9ea210)
 * [**Setting a JavaScript libray as a global**](https://medium.com/angularmedellin/setting-a-javascript-library-as-global-in-angular-4bec30e50596)
 * [**NgColomba: From a Local Meetup to an International Conference in 7 Months**](https://medium.com/angularmedellin/ng-colombia-8963a0eacb83)
