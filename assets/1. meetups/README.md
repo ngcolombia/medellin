@@ -42,11 +42,11 @@ Sólo asegúrate de seguir [**estas instrucciones**](./SPEAKERS.md#-speakers-), 
 
 ## 1.2 Meetups Pasados: 📆
 
-1. **[Hablemos de Angular en Medellín](./past/1.md)**
-2. **[Cosas que no sabías de Angular](./past/2.md)**
-3. **[Angular: Lo mejor está por venir](./past/3.md)**
-4. **[Angular Medellín: Hecho para vos](./past/4.md)**
-5. **[Angular Medellín: Más que una comunidad](./past/5.md)**
-6. **[Angular Medellín: Mejor que nunca 😃](./past/6.md)**
-7. **[Angular Medellín: Último meetup del añ️️o 💙](./past/7.md)**
-8. **[Angular Medellín: Forms, NGRX, GDE y Guards](./past/8.md)**
+1. **[Hablemos de Angular en Medellín](./past/1.md#meetup-1)**
+2. **[Cosas que no sabías de Angular](./past/2.md#meetup-2)**
+3. **[Angular: Lo mejor está por venir](./past/3.md#meetup-3)**
+4. **[Angular Medellín: Hecho para vos](./past/4.md#meetup-4)**
+5. **[Angular Medellín: Más que una comunidad](./past/5.md#meetup-5)**
+6. **[Angular Medellín: Mejor que nunca 😃](./past/6.md#meetup-6)**
+7. **[Angular Medellín: Último meetup del añ️️o 💙](./past/7.md#meetup-7)**
+8. **[Angular Medellín: Forms, NGRX, GDE y Guards](./past/8.md#meetup-8)**
