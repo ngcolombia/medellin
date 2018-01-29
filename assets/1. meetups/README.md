@@ -30,7 +30,7 @@ Estos meetups permitirán que muchas personas puedan acceder a nuestra comunidad
 
 ## 1.2 ¡Participa como Speaker! 👦👧
 
-¡Nos encanta que subas al escenario! No hace falta ser un experto :neckbeard ni ahondar en aspectos técnicos, de hecho ¡Disfrutamos mucho las charlas creativas!
+¡Nos encanta que subas al escenario! No hace falta ser un experto :neckbeard: ni ahondar en aspectos técnicos, de hecho ¡Disfrutamos mucho las charlas creativas!
 
 Sólo asegúrate de seguir [**estas instrucciones**](./SPEAKERS.md#-speakers-), nosotros nos encargamos del resto. Serás un rockstar en el escenario 🤴👸
 
