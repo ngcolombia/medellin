@@ -16,6 +16,25 @@ Para aplicar basta con que abras un issue [**aquí**](https://github.com/angular
 * 😁 Por qué quieres participar de los Angular Labs
 * 🤓 Cuánto tiempo llevas codificando en Angular
 
+## Formato
+
+* **Capacidad:** 10 personas
+* **Incluye:** Almuerzo y Stickers
+
+## Ganadores
+
+Las personas seleccionadas serán anunciadas una semana antes a través del [Slack](https://join.slack.com/t/ng-colombia/shared_invite/enQtMjgwMjc3ODk1NjMyLTBjMmE4YmQzYTA0ZGNjNTVhMmNlMmQ1YWRjNGFlOWE4MDBjMWM3M2UwNmFjZWFhNmZkYzVmNDc3ZWQ5MmQwZmY) de la comunidad. Serán contactadas para solicitar información adicional. 
+
+> En caso de no responder perderán la oportunidad 👀
+
+## Criterios de Selección
+
+En caso de haber más de 10 personas interesadas le daremos prioridad a personas que:
+
+- Vienen de grupos poco representados en la industria de software
+- Nunca han participado de las actividades de Angular Medellín
+- Han contribuido bastante a la comunidad
+
 <p align="left">
     <img alt="Meetup Sample Photo" width=70% src="./../images/lab.jpg">
 </p>
@@ -27,10 +46,6 @@ Metodology:
 NOT GOOD IDEA:
 - Colaborative work is not ideal because they have to learn how to work together, how to integrate together, etc.
 - Allowing them to chose what to work on because they will probably bring very complex ideas, and they won't be able to finish
-
-Selection Criteria:
-- Diversity
-- Best Answers
 
 Methodology:
 - Have them build the applications individually with the help of tutors
