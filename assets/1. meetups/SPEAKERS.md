@@ -73,3 +73,7 @@ So you will dive through the code? That's bold! 😎 So a few things to have int
 - 💡 Switch your editor to a high contrast theme, light themes are preferable over dark themes
 - 👀 Again, increase the font size of the editor
 - 💻 Collapse the any tabs or panes. Your code need protagonism.
+
+## 6. Examples 🌟
+
+See [Mateo's](http://slides.com/matew17/routeguards#/), [Manuela's](http://slides.com/manucastrillonm/ngrx#/) or [Juan's](http://slides.com/jdjuan/angular-10-advices) presentations. 
