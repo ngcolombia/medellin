@@ -38,11 +38,11 @@ Las personas seleccionadas serán anunciadas una semana antes a través del [Sla
 
 ## Criterios de Selección
 
-En caso de haber más de 10 personas interesadas le daremos prioridad a personas que:
+En caso de haber más de 10 personas interesadas utilizaremos los siguientes criterios de selección:
 
-- Vienen de grupos poco representados en la industria de software
-- Nunca han participado de las actividades de Angular Medellín
-- Han contribuido bastante a la comunidad
+- **Diversidad:** Vienen de grupos poco representados en la industria de software
+- **Contribución:** Nivel de contribución a la comunidad
+- **Respuesta:** Entusiasmo e interés mostrado en su aplicación
 
 <p align="left">
     <img alt="Meetup Sample Photo" width=70% src="./../images/lab.jpg">
