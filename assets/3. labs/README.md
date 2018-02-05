@@ -6,6 +6,15 @@
 
 # 3. Labs 🔨
 
+---
+
+# UPDATE: ⛔️ ¡Ya escogimos los ganadores! ⛔️
+🌟 ¡Síguenos en nuestras redes para enterarte del próximo! 🌟
+
+---
+
+## Descripción
+
 Los Angular Labs son un espacio en el que pasas un día completo creando una aplicación de Angular de principio a fin de la mano de expertos 🤠
 
 En tan solo 8 horas tendrás tu propia aplicación desplegada en la nube y disponible para que todos tus amigos la vean! 😎
