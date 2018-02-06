@@ -6,7 +6,6 @@
 
 * [ ] 😎 Ser el próximo speaker
 * [ ] 🤠 Publicar mi solución al Angular Challenge
-* [ ] 😁 Participar de los Angular Labs
 * [ ] 😊 Escribir un artículo en el Blog
 * [ ] 😇 Dar feedback
 * [ ] 😋 Otro
