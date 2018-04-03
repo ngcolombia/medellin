@@ -38,5 +38,5 @@ En caso de haber más de 10 personas interesadas utilizaremos los siguientes cri
 - **Respuesta:** Entusiasmo e interés mostrado en su aplicación
 
 <p align="center">
-    <img alt="Meetup Sample Photo" width=70% src="./../images/lab.jpg">
+    <img alt="Meetup Sample Photo" width=70% src="./../images/angular-lab.jpg">
 </p>
