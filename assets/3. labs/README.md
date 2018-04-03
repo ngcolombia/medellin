@@ -4,39 +4,32 @@
   </a>
 </p>
 
-# 3. Labs 🔨
+# Angular Labs 🚀
 
----
-
-# UPDATE: ⛔️ ¡Ya escogimos los ganadores! ⛔️
-🌟 ¡Síguenos en nuestras redes para enterarte del próximo! 🌟
-
----
-
-## Descripción
+## 1. Descripción 📋
 
 Los Angular Labs son un espacio en el que pasas un día completo creando una aplicación de Angular de principio a fin de la mano de expertos 🤠
 
 En tan solo 8 horas tendrás tu propia aplicación desplegada en la nube y disponible para que todos tus amigos la vean! 😎
 
-Para aplicar basta con que abras un issue [**aquí**](https://github.com/angular-medellin/meetup/issues/new) y nos cuentes:
+Para aplicar basta con que llenes **[este formulario](#)**
 
-* 😃 Quién eres
-* 😁 Por qué quieres participar de los Angular Labs
-* 🤓 Cuánto tiempo llevas codificando en Angular
+* 😃 Las personas seleccionadas serás anunciadas el próximo **Lunes 9 de Abril**
+* 👶 No importa cuánta experiencia tengas, tenemos un desafío para ti
+* 🍕 El refrigerio está incluído
 
-## Formato
+## 2. Condiciones ☑️
 
-* **Capacidad:** 10 personas
-* **Incluye:** Almuerzo y Stickers
+1. **[Configurar tu Ambiente](https://gist.github.com/jdjuan/8746c2950c12e51c09251ee2a5070119#-preparaci%C3%B3n-angular-lab-)**
+1. **[Ingresar al Slack](https://join.slack.com/t/ng-colombia/shared_invite/enQtMjgwMjc3ODk1NjMyLTBjMmE4YmQzYTA0ZGNjNTVhMmNlMmQ1YWRjNGFlOWE4MDBjMWM3M2UwNmFjZWFhNmZkYzVmNDc3ZWQ5MmQwZmY)**
 
-## Ganadores
+## 3. Ganadores 🏆
 
-Las personas seleccionadas serán anunciadas una semana antes a través del [Slack](https://join.slack.com/t/ng-colombia/shared_invite/enQtMjgwMjc3ODk1NjMyLTBjMmE4YmQzYTA0ZGNjNTVhMmNlMmQ1YWRjNGFlOWE4MDBjMWM3M2UwNmFjZWFhNmZkYzVmNDc3ZWQ5MmQwZmY) de la comunidad. Serán contactadas para solicitar información adicional. 
+Las personas seleccionadas serán anunciadas una semana antes a través del [Slack](https://join.slack.com/t/ng-colombia/shared_invite/enQtMjgwMjc3ODk1NjMyLTBjMmE4YmQzYTA0ZGNjNTVhMmNlMmQ1YWRjNGFlOWE4MDBjMWM3M2UwNmFjZWFhNmZkYzVmNDc3ZWQ5MmQwZmY) de la comunidad. Allí se les dará toda la información.
 
-> En caso de no responder perderán la oportunidad 👀
+> En caso de no confirmar se le dará la oportunidad a alguien más 👀
 
-## Criterios de Selección
+## 4. Criterios de Selección 🤔
 
 En caso de haber más de 10 personas interesadas utilizaremos los siguientes criterios de selección:
 
@@ -44,49 +37,6 @@ En caso de haber más de 10 personas interesadas utilizaremos los siguientes cri
 - **Contribución:** Nivel de contribución a la comunidad
 - **Respuesta:** Entusiasmo e interés mostrado en su aplicación
 
-<p align="left">
+<p align="center">
     <img alt="Meetup Sample Photo" width=70% src="./../images/lab.jpg">
 </p>
-
-
-<!---
-Metodology:
-
-NOT GOOD IDEA:
-- Colaborative work is not ideal because they have to learn how to work together, how to integrate together, etc.
-- Allowing them to chose what to work on because they will probably bring very complex ideas, and they won't be able to finish
-
-Methodology:
-- Have them build the applications individually with the help of tutors
-- Give them a specific set of challenges by capacity (easy, medium, hard)
-- Teach them first how to deploy an app. To have them constantly deploy it.
-  
-Agenda: All of the following activities are timeboxed:
-
-- Welcome introduction
-- Explain the methodology
-- Give good tips
-- Teach how to deploy
-- Give them the challenges to choose 
-- Explain planning methodology
-- Have them plan
-- Have them write first interation of code
-- Have them plan second round
-- Have them finish
-- Presentation
-
-Challenges:
-- [Easy] Directory System: Where you show the pictures of all employees and when you click you see their info
-- []https://genderize.io/
-- https://github.com/Hipo/university-domains-list
-- https://pdflayer.com/
-- http://numbersapi.com/32
-- https://robohash.org/
-- https://yesno.wtf/api
-
-
-Tutors:
-- Those most proficient in the first Angular Lab are asked to join the next one
-- Carlos, Laura, Daniel, etc.
-
--->
