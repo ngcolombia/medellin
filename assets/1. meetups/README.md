@@ -50,3 +50,4 @@ Sólo asegúrate de seguir [**estas instrucciones**](./SPEAKERS.md#-speakers-), 
 6. **[Angular Medellín: Mejor que nunca 😃](./past/6.md#meetup-6)**
 7. **[Angular Medellín: Último meetup del añ️️o 💙](./past/7.md#meetup-7)**
 8. **[Angular Medellín: Forms, NGRX, GDE y Guards](./past/8.md#meetup-8)**
+8. **[Angular Medellín: Unit Testing, I18n, NGRX](./past/9.md#meetup-9)**
