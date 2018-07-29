@@ -8,9 +8,9 @@
 
 Nuestros meetups son reuniones presenciales en los que presentamos diferentes charlas al rededor de Angular. Las charlas por lo general son:
 
-* Técnicas
-* No Técnicas
-* Internacionales
+- Técnicas
+- No Técnicas
+- Internacionales
 
 Para conocer nuestro próximo meetup [**entra aquí.**](http://meetup.com/Angular-Medellin/)
 
@@ -42,12 +42,14 @@ Sólo asegúrate de seguir [**estas instrucciones**](./SPEAKERS.md#-speakers-), 
 
 ## 1.2 Meetups Pasados: 📆
 
-1. **[Hablemos de Angular en Medellín](./past/1.md#meetup-1)**
-2. **[Cosas que no sabías de Angular](./past/2.md#meetup-2)**
-3. **[Angular: Lo mejor está por venir](./past/3.md#meetup-3)**
-4. **[Angular Medellín: Hecho para vos](./past/4.md#meetup-4)**
-5. **[Angular Medellín: Más que una comunidad](./past/5.md#meetup-5)**
-6. **[Angular Medellín: Mejor que nunca 😃](./past/6.md#meetup-6)**
-7. **[Angular Medellín: Último meetup del añ️️o 💙](./past/7.md#meetup-7)**
-8. **[Angular Medellín: Forms, NGRX, GDE y Guards](./past/8.md#meetup-8)**
-8. **[Angular Medellín: Unit Testing, I18n, NGRX](./past/9.md#meetup-9)**
+1.  **[Hablemos de Angular en Medellín](./past/1.md#meetup-1)**
+2.  **[Cosas que no sabías de Angular](./past/2.md#meetup-2)**
+3.  **[Angular: Lo mejor está por venir](./past/3.md#meetup-3)**
+4.  **[Angular Medellín: Hecho para vos](./past/4.md#meetup-4)**
+5.  **[Angular Medellín: Más que una comunidad](./past/5.md#meetup-5)**
+6.  **[Angular Medellín: Mejor que nunca 😃](./past/6.md#meetup-6)**
+7.  **[Angular Medellín: Último meetup del añ️️o 💙](./past/7.md#meetup-7)**
+8.  **[Angular Medellín: Forms, NGRX, GDE y Guards](./past/8.md#meetup-8)**
+9.  **[Angular Medellín: Unit Testing, I18n, NGRX 👌](./past/9.md#meetup-9)**
+10. **[Angular Medellín: Universal, NgZones y mucho más! 🎁](./past/10.md#meetup-10)**
+11. **[⚡️ Schematics, SEO, Arquitectura y View Encapsulation! ⚡️](https://www.meetup.com/Angular-Medellin/events/252719302/)**
