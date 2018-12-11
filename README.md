@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.meetup.com/Angular-Medellin/members/">
-    <img src="https://img.shields.io/badge/👫-+1865_miembros-1d2935.svg?style=flat" alt="Contribuyentes">
+    <img src="https://img.shields.io/badge/👫-+1930_miembros-1d2935.svg?style=flat" alt="Contribuyentes">
   </a>
   <a href="#-contribuyentes-">
     <img src="https://img.shields.io/badge/👫-45_contribuyentes-1d2935.svg?style=flat" alt="Contribuyentes">
@@ -20,20 +20,7 @@
   <a href="./CODE_OF_CONDUCT.md">
     <img src="https://img.shields.io/badge/👮-1_código_de_conducta-1d2935.svg?style=flat" alt="Código de Conducta">
   </a>
-  <br><br>
-  <a href="https://github.com/angular-medellin/meetup/stargazers">
-    <img src="https://img.shields.io/github/stars/angular-medellin/meetup.svg?style=social" alt="GitHub stars">
-  </a>
-  <a href="https://github.com/angular-medellin/meetup/watchers">
-    <img src="https://img.shields.io/github/watchers/angular-medellin/meetup.svg?style=social" alt="GitHub watchers">
-  </a>
-  <a href="https://twitter.com/intent/tweet?text=Conoce%20a%20Angular%20Medellín!%20%E2%9C%A8%20Aquí%20está%20su%20reposotirio%20oficial%20%E2%9C%A8%20https://github.com/angular-medellin/meetup%20%F0%9F%A4%97
-">
-    <img src="https://img.shields.io/twitter/url/https/github.com/angular-medellin/meetup.svg?style=social" alt="Tweet">
-  </a>
-  <br><br>
-    <img width=70% src="assets/images/community3.jpg">
-  
+
 </p>
 
 <h1 align="center"> ⭐️ Angular Medellín ⭐️ </h1>
@@ -44,22 +31,6 @@
 Angular Medellín es una comunidad de personas interesadas en aprender y compartir conocimiento en relación a Angular.
 Tenemos 4 maneras de participar:
 </div>
-<br>
-
-<p align="center">
-  <a href="./assets/1. meetups/README.md#1-meetups-">
-<img width=40% src="./assets/images/1.png" style="padding: 0.5rem" alt="Meetup: Ven y aprende">
-  </a>
-  <a href="./assets/2. challenges/README.md#2-challenges-">
-<img width=40% src="./assets/images/2.png" style="padding: 0.5rem" alt="Challenges: Prueba tus habilidades">
-  </a>
-  <a href="./assets/3. labs/README.md#3-labs-">
-<img width=40% src="./assets/images/3.png" style="padding: 0.5rem" alt="Labs: Crea aplicaciones">
-  </a>
-  <a href="./assets/4. blog/README.md#4-blog-">
-<img width=40% src="./assets/images/4.png" style="padding: 0.5rem" alt="Blog: Escribe artículos">
-  </a>
-</p>
 
 <br>
 
