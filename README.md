@@ -1,15 +1,15 @@
 <p align="center">
   <a href="https://www.meetup.com/Angular-Medellin/">
-    <img width=100% src="assets/images/angular-medellin-banner.png">
+    <img width=100% src="assets/images/logo.png">
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.meetup.com/Angular-Medellin/members/">
-    <img src="https://img.shields.io/badge/👫-+1930_miembros-1d2935.svg?style=flat" alt="Contribuyentes">
+    <img src="https://img.shields.io/badge/👫-+2142_miembros-1d2935.svg?style=flat" alt="Contribuyentes">
   </a>
   <a href="#-contribuyentes-">
-    <img src="https://img.shields.io/badge/👫-45_contribuyentes-1d2935.svg?style=flat" alt="Contribuyentes">
+    <img src="https://img.shields.io/badge/👫-+50_contribuyentes-1d2935.svg?style=flat" alt="Contribuyentes">
   </a>
   <a href="http://yuxiglobal.com/">
     <img src="https://img.shields.io/badge/💰-1_patrocinador-1d2935.svg?style=flat" alt="Speakers">
@@ -23,7 +23,7 @@
 
 </p>
 
-<h1 align="center"> ⭐️ Angular Medellín ⭐️ </h1>
+<h1 align="center"> ⭐️ NgColombia: Medellín ⭐️ </h1>
 
 <h2 align="center"><strong><a href="https://join.slack.com/t/ng-colombia/shared_invite/enQtMjgwMjc3ODk1NjMyLTBjMmE4YmQzYTA0ZGNjNTVhMmNlMmQ1YWRjNGFlOWE4MDBjMWM3M2UwNmFjZWFhNmZkYzVmNDc3ZWQ5MmQwZmY">👉 JOIN OUR SLACK 👈</a></strong></h2>
 
@@ -55,10 +55,8 @@ Tenemos 4 maneras de participar:
 Entérate de los últimos anuncions y noticias, síguenos en nuestro Twitter o pregúntanos lo que quieras en Slack:
 <br>
 <br>
-  <strong><a href="http://meetup.com/Angular-Medellin/">Meetup - </a></strong>
-  <strong><a href="https://twitter.com/angularmedellin">Twitter - </a></strong>
+  <strong><a href="https://twitter.com/NgColombiaConf">Twitter - </a></strong>
   <strong><a href="https://join.slack.com/t/ng-colombia/shared_invite/enQtMjgwMjc3ODk1NjMyLTBjMmE4YmQzYTA0ZGNjNTVhMmNlMmQ1YWRjNGFlOWE4MDBjMWM3M2UwNmFjZWFhNmZkYzVmNDc3ZWQ5MmQwZmY">Slack - </a></strong>
-  <strong><a href="https://medium.com/angularmedellin/">Medium - </a></strong>
   <strong><a href="https://twitter.com/search?q=%23ngcolombia&src=typd">#NgColombia</a></strong>
 </div>
 
