@@ -25,12 +25,7 @@
 
 <h1 align="center"> ⭐️ NgColombia: Medellín ⭐️ </h1>
 
-<h2 align="center"><strong><a href="https://join.slack.com/t/ng-colombia/shared_invite/enQtMjgwMjc3ODk1NjMyLTBjMmE4YmQzYTA0ZGNjNTVhMmNlMmQ1YWRjNGFlOWE4MDBjMWM3M2UwNmFjZWFhNmZkYzVmNDc3ZWQ5MmQwZmY">👉 JOIN OUR SLACK 👈</a></strong></h2>
-
-<div align="center">
-Angular Medellín es una comunidad de personas interesadas en aprender y compartir conocimiento en relación a Angular.
-Tenemos 4 maneras de participar:
-</div>
+<h2 align="center"><strong><a href="https://join.slack.com/t/ng-colombia/shared_invite/enQtMjgwMjc3ODk1NjMyLTBjMmE4YmQzYTA0ZGNjNTVhMmNlMmQ1YWRjNGFlOWE4MDBjMWM3M2UwNmFjZWFhNmZkYzVmNDc3ZWQ5MmQwZmY">👉 ÚNETE A NUESTRO SLACK 👈</a></strong></h2>
 
 <br>
 
